@@ -1,58 +1,69 @@
-{
-  "urls": [
     {
-      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/hcwsky/tvbox/main/home/home.json",
-      "name": "🏠幸福之家"
-    },
-    {
-      "url": "http://饭太硬.top/tv",
-      "name": "🐹饭太硬在线"
-    },
-    {
-      "url": "https://agit.ai/ddx/TVBox/raw/branch/master/t4.json",
-      "name": "🐹刚哥在线1"
-    },
-     {
-      "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
-      "name": "🐹刚哥在线2"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/gangliu881/Box/main/tvbox.json",
-      "name": "🐹刚哥在线3"
-    },
-    {   
-      "url": "http://yydsys.top/duo",
-      "name": "🐹多多在线"
-    },
-    {
-      "url": "https://www.agit.ai/CT/XYQ/raw/branch/master/XYQTVBox.json",
-      "name": "🐹香雅情在线"
-    },
-    {
-      "url": "http://肥猫.live",
-      "name": "🐹肥猫在线"
-    },
-    {
-      "url": "http://rihou.cc:88/荷城茶秀",
-      "name": "🐹荷城茶秀在线"
-    },
-    {
-      "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
-      "name": "🐹云星日记在线"
-    },
-    {
-      "url": "http://xhww.fun:63/小米/DEMO.json",
-      "name": "🐹小米在线"
-    },
-    {
-      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
-      "name": "🐹高天道长在线"
-    },
-    
-    }
-  ]
-}
+    "urls":[
+        {
+            "url": "https://raw.fgit.cf/liu673cn/tms/main/m.json",
+            "name": "🐴稳定时光机"
+        },
+        {
+            "url": "https://raw.fgit.cf/liu673cn/tm/main/m.json",
+            "name": "🦄本地时光机"
+        },
+        {
+            "url": "https://raw.fgit.cf/liu673cn/xduo/main/m.json",
+            "name": "🏡多多家庭版-新"
+        },
+        {
+            "url": "https://raw.fgit.cf/liu673cn/duo/main/m.json",
+            "name": "🏡多多家庭版-旧"
+        },
+        {
+            "url": "http://tv.nxog.top/m/",
+            "name": "⭕欧歌API"
+        },
+        {
+            "url": "http://52bsj.vip:98/wuai",
+            "name": "🌟吾爱线路"
+        },	
+        {
+            "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
+            "name": "🌥︎云星家庭版"
+        },
+        {
+            "url": "http://饭太硬.top/tv",
+            "name": "🌟饭太硬"
+        },
+        {
+            "url": "https://weixine.net/ysc.json",
+            "name": "🚀运输车"
+        },
+        {
+            "url": "http://pandown.pro/tvbox/tvbox.json",
+            "name": "🐼巧技"
+        },
+        {
+            "url": "https://tvbox.cainisi.cf",
+            "name": "🌟菜妮丝"
+        },	
+        {
+            "url": "https://szyyds.cn/tv/x.json",
+            "name": "🌟小马"
+        },
+        {
+            "url": "https://www.agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+            "name": "🌟南风"
+        },
+        {
+            "url": "http://rihou.cc:88/荷城茶秀",
+            "name": "🌟荷城茶秀"
+        },
+        {
+            "url": "https://www.agit.ai/CT/XYQ/raw/branch/master/XYQTVBox.json",
+            "name": "🤯香雅情本地"
+        }
 
+
+    ]
+}
     
     
     
