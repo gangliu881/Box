@@ -18,6 +18,35 @@
             "name": "🏡多多家庭版-旧"
         },
         {
+            "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/hcwsky/tvbox/main/home/home.json",
+            "name": "🏡幸福之家"
+        },
+        {
+            "url": "https://agit.ai/ddx/TVBox/raw/branch/master/t4.json",
+            "name": "🏡刚哥在线1"
+        },
+        {
+            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+            "name": "🏡刚哥在线2"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/gangliu881/Box/main/tvbox.json",
+            "name": "🏡刚哥在线3"
+        },
+        {
+            "url": "http://肥猫.live",
+            "name": "🏡肥猫"
+        },
+        {
+            "url": "http://xhww.fun:63/小米/DEMO.json",
+            "name": "🏡小米"
+        },
+        {
+            "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+            "name": "🏡高天道长"
+        },
+
+        {
             "url": "http://tv.nxog.top/m/",
             "name": "⭕欧歌API"
         },
