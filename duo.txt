@@ -14,9 +14,15 @@
             "name": "🏡多多家庭版-新"
         },
         {
-            "url": "https://raw.fgit.cf/liu673cn/duo/main/m.json",
-            "name": "🏡多多家庭版-旧"
+            "url": "https://www.891218.xyz/free/jk/hyxuandm.json",
+            "name": "🏡环宇轩"
         },
+        {
+            "url": "https://codeberg.org/xvnhs/xngb/raw/branch/Xbox/xbfbe.json",
+            "name": "🏡蓝天影视"
+        },
+
+
         {
             "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/hcwsky/tvbox/main/home/home.json",
             "name": "🏡幸福之家"
