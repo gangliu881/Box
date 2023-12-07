@@ -53,12 +53,12 @@
         },
 
         {
-            "url": "http://tv.nxog.top/m/",
-            "name": "⭕欧歌API"
+            "url": "https://raw.githubusercontent.com/stanlyshi/tvbox-cfg-gao/master/0825.json",
+            "name": "⭕初秋语"
         },
         {
-            "url": "http://52bsj.vip:98/wuai",
-            "name": "🌟吾爱线路"
+            "url": "https://raw.githubusercontent.com/shichuanenhui/TvBox/main/fty.json",
+            "name": "🌟刚哥在线4"
         },	
         {
             "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
