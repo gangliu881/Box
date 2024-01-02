@@ -4400,240 +4400,137 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 商洛-1,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226378/1.m3u8
 渭南-1,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226376/1.m3u8
 安康-1,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226385/1.m3u8
-国际频道,#genre#
-123GO!,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63eecb32ac23d1ee072087cb.m3u8
-5-Minute Crafts,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63894c1965b848bf2c8a7800.m3u8
-ACL Cornhole TV,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63504925a97bd70eaef54f01.m3u8
-AFV Español,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5ef4e1b10d9ad000423c4421.m3u8
-AKC.tv,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63e6381d8895074ec6c78b16.m3u8
-ALTRD.TV,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-60bfd0907c60b7002c9765de.m3u8
-ARTFLIX - Películas Clásicas,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6348a34c1159f6a5ce819b81.m3u8
-AZTECA UNO -1 hora,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64693c3f4ead8fb86120d8db.m3u8
-AfroLandTV,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-60e737a4ebef9d002c4d0a0c.m3u8
-Alternative,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-62efbb8652f7d73061eec498.m3u8
-Always Funny,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5ef11486d33ab9004048a1cd.m3u8
-Andromeda,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-656236cc5dbccec83a87b647.m3u8
-Autopista al Cielo,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6449369eb3ff17382cae5811.m3u8
-Aym Sports TV,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0.m3u8
-Azteca Internacional,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-646d06c9b09f13b2d8af68d8.m3u8
-Bigtime - Películas Gratis,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6348969190b96ef5e0eb327a.m3u8
-BikeMag,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-656fb665cb7e8e6a9bc3f36c.m3u8
-Billiard TV,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6334a8e48a7b2a349d903b8c.m3u8
-Black Star Network,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64a353a864e8e3dc0a29524f.m3u8
-Bloomberg Originals,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-61d73c3ca7b7c7f703418518.m3u8
-Bloomberg TV,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-61d73ab0a7b7c7f703418516.m3u8
-Boonie Cubs TV,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6334bd648a7b2a349d903bc3.m3u8
-Brat TV,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63d6f6c5a9e88ee909e7ee1f.m3u8
-Butaca TV,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64f0dad7c2bc9b9001d46ea8.m3u8
-CINEPRIDE,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-62167144ab2095ca85353ad6.m3u8
-COMMUNE,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-618adcbb6769b2b0bcc4c17f.m3u8
-COPS,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-626c1753ffda6789d20a452e.m3u8
-Camp Spoopy,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6164a963766ab4f9f57e81b1.m3u8
-CampusLore Sports,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6216ae22c3bbca2de8704f65.m3u8
-Canela Clásicos,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64fba469bb3e0baa5dcc0947.m3u8
-Canela Telenovelas,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64e6df6e4a5e9b4cedc6d529.m3u8
-Cheaters en Español,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-65623e0eb7d737841f30a4ff.m3u8
-Choppertown,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5ef11487d33ab9004048a1d3.m3u8
-Christmas Classics,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6196a9661d310bf925e02613.m3u8
-Cine Premium Plus,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-645d848363c2c64203aa48fc.m3u8
-Cine Real,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-608b7095a09205002da4f295.m3u8
-Cine Sureño,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6018913fa15130002b284197.m3u8
-Cine de Horror,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64e6e2f04a5e9b4cedc6d52b.m3u8
-Cine en Español,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64e6e46f27a915f9b5184e9a.m3u8
-Cinema,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64695233f73356567a64ce90.m3u8
-ClixTV,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6111b06a8f945c002c45dd12.m3u8
-CoinDesk TV,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-637f7d26eb853a321461cb63.m3u8
-CombaTV,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63f0ca427b78030ed9990309.m3u8
-Comedy Dynamics,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5efe1de5e0b3f5003f5d9f76.m3u8
-Cooking Panda,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5f07e9fdf313eb0041bbecda.m3u8
-Cops en Español,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6477b95b7ba9c0d593859bfc.m3u8
-Corazón,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64694d52f73356567a64ce8c.m3u8
-Court Sports Network,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-652875586425fdb1f32d2169.m3u8
-CraftsyTV,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6365779dde08f8eec6c3f21f.m3u8
-Desi Play TV,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-634dddc8a319c6df243f521f.m3u8
-Discover Film,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-618198fe4e1b6764011b046a.m3u8
-Documentary+,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-614e286b2bac097ffd6fd6ab.m3u8
-Dungeon TV,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6216723e2c2627c068e73ad4.m3u8
-Easy Listening,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-62ee76b5271f393d2d9f709a.m3u8
-Eddie's Wonderland,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-618ab2f275913b296fbe56dd.m3u8
-Edge Sport,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5eea71d45252710041e0ccb9.m3u8
-El Conflicto TV,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-621674f168c966be92737ce6.m3u8
-Entrepreneur TV,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-62ba4c6bf663580a7238f329.m3u8
-Euro Hits,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-62ee74af52f7d73061eec491.m3u8
-Euronews,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-60089d90f682a3002c348299.m3u8
-Euronews Deutsch,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6245efe9f137de43897ea1ae.m3u8
-Euronews Español,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-60089d97f682a3002c34829d.m3u8
-Euronews Français,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6245f06793b402a3d1097787.m3u8
-Euronews Italiano,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6245f13093b402a3d1097789.m3u8
-Euronews Portuguese,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6245cd154f27f4e9c76d67e9.m3u8
-FLOU Caribeno,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63adf8eff3d69d1885731c06.m3u8
-FLOU Cine,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6323ac0f8f253768c26b5529.m3u8
-FTF Sports,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-605a309dc5acdc002c7a20aa.m3u8
-FUEL TV,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-62ffc5cfa6cad6f2991745c2.m3u8
-FailArmy,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5f170d62b898490041b4936e.m3u8
-Farscape,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-635195e9ccee3e1547a8831a.m3u8
-FashionTV,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6490c01f3b3ce9e1aaad95be.m3u8
-Fight Network,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-606605549dbfca002d2ae877.m3u8
-Filmstream,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5f5132e162fe160040f26bdb.m3u8
-Fite 24/7,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-62c8a2d2d774648bcc76a116.m3u8
-Flash,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6018913ea15130002b284191.m3u8
-Flashback 70s,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-62f15810a3ffe928ef806c75.m3u8
-FreeTV,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6018913ea15130002b28418f.m3u8
-FrightFlix,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-621674502c2627c068e73ada.m3u8
-Inc.,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63d08694ab0965e49583e3b2.m3u8
-GAGO TV,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6196c6843b964c65b53de32e.m3u8
-GFN TV,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5fc6f3a92b6f7b002e77ffad.m3u8
-GLORY Kickboxing,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63f914bffe2c3d32e1a7929f.m3u8
-GUSTOTV,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5f8746eabd529300418246d9.m3u8
-Galxy TV,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-621672e42c2627c068e73ad8.m3u8
-Glewed TV,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5eea605474085f0040ddc76d.m3u8
-GoUSA TV,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-60a9d105d162b9002d05a60c.m3u8
-Gravitas Adrenaline,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-629141f6a0ed9c2b6ae63bb0.m3u8
-Gravitas Documentaries,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6291409aa0ed9c2b6ae63bae.m3u8
-Gravitas Movies,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5efe1de7e0b3f5003f5d9f8e.m3u8
-Grjngo - Películas Del Oeste,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63489eff90b96ef5e0eb3282.m3u8
-HappiTV,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-623171af5995505c86629208.m3u8
-Hard Knocks,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5fd115bdb7ef8d002dcf1820.m3u8
-Hip-Hop/R&B,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-62ee7ae2271f393d2d9f709e.m3u8
-Hot Ones,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6582a1316b91be4547aa153c.m3u8
-Humor Mill,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5fd115b7b7ef8d002dcf1814.m3u8
-IMPACT Wrestling,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-606605549dbfca002d2ae873.m3u8
-INFAST,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-62e7e3390f1a07e75150bd37.m3u8
-Ideas En 5 Minutos,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64a355697d24564fba37bab8.m3u8
-Infamous TV,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-61fb10e8fe90430654c57530.m3u8
-It’s Showtime at the Apollo,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-656e505bcb3f2a8efdbc1be0.m3u8
-JAIL,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6448ba1baf92c31f4a190c27.m3u8
-Johnny Carson TV,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-60d4edd6b2fdec002c141123.m3u8
-Judge Nosey,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5f0ff262d71dcb00449ec018.m3u8
-Juntos TV,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-60240f57676235002df19f49.m3u8
-Just For Laughs Gags,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64704954e536e0faaf10be9f.m3u8
-Kidoodle TV,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5eea605574085f0040ddc79a.m3u8
-Kidz Bop TV,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-656fb124cb7e8e6a9bc3f36a.m3u8
-Kin,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-62ba493395ddc34d7d3cfce0.m3u8
-La Bocina Latina,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-631932e2f6672ff675ee5ec0.m3u8
-La Casa del Jaripeo,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6533db8ddf3ccc650a96563a.m3u8
-La Corriente,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-602d6608f867c4002c897e27.m3u8
-Law & Crime,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5eea605674085f0040ddc79d.m3u8
-Lone Star,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6196c9241d310bf925e02616.m3u8
-Love Stories TV,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64e4351f200cd2f67473e0d2.m3u8
-MAVTV Motorsports Network,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5f90ebc726350a002d40b136.m3u8
-MMC,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-623954128ed2b3b15baecb2c.m3u8
-Made In Hollywood,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-60db63d29ec966002c9ea6f0.m3u8
-MagellanTV NOW,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-636abc6d4cbc0319a0bd49c0.m3u8
-MasterChef Mexico,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-657221540c7d9b1f1ebc515b.m3u8
-Maverick Black Cinema,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5ef4e1b40d9ad000423c4430.m3u8
-MegaNoticias,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-626c288e54f3232400a45f35.m3u8
-Misterios sin Resolver,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64d79408e5f67b0fab47ff24.m3u8
-Moconomy - Economía y Finanzas,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63489e1390b96ef5e0eb3280.m3u8
-More U,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6112a9139894c8002c6cb87f.m3u8
-Motorsport.tv,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6408c82eebb23ab878e8ddbb.m3u8
-Motorvision TV,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-603fb593a99efc002dbf90e4.m3u8
-Motorvision TV en Español,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-60da3a5c0d1cc1002c38370e.m3u8
-Music Legends,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6196c8c01d310bf925e02615.m3u8
-Mutant X,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-656237c55dbccec83a87b649.m3u8
-My Binge Channel,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6196c76e1d310bf925e02614.m3u8
-Mythical 24/7,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-650b5bb3f4b2d9579946a500.m3u8
-NHRA TV,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-60aeb5cd87f9b1002ce12323.m3u8
-Newsmax TV,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5fb81660b7ad2d002dcb7335.m3u8
-Ninja Kidz TV,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-627ec46a92d8e6a705784bd1.m3u8
-Nosey,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5f0ff262d71dcb00449ec015.m3u8
-Nosey Escándalos,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6154a863e3e4d9577f96b31a.m3u8
-Nothin' But 90s,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-62f13eeded056a1db9ef3d54.m3u8
-Novelisima,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64d4e82ac5d4668c9cb7b5df.m3u8
-Operation Repo,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6578e7b5eef129f30fb38df7.m3u8
-Oro TV,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64f0db77c2bc9b9001d46eaa.m3u8
-Outdoor America,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-611c3ac2409e4d002c85a6dd.m3u8
-PFL MMA,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-643f0ecd76de2b4015ae6c01.m3u8
-POPSUGAR Fitness,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-605a309dc5acdc002c7a20ac.m3u8
-PW Kids,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5efe1de5e0b3f5003f5d9f7f.m3u8
-Pac-12 Insider,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-646c0dfbfb58444e4e1e262d.m3u8
-Party Poker TV,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6196c99e3b964c65b53de32f.m3u8
-Party Tyme Karaoke,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-602d56bef867c4002c897e22.m3u8
-People are Awesome,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5f0ff263d71dcb00449ec021.m3u8
-PickleTV,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63ec0b739866d8d2120ac759.m3u8
-Pitufo TV,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-639ba57d3f4612cc150a5723.m3u8
-Poker Night TV,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-60afc726623f2f002c5bb49f.m3u8
-PokerGO,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64ac687b4192b4e1bab96279.m3u8
-Pop Adult,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-62ee7992271f393d2d9f709c.m3u8
-Popstar! TV,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5ef11487d33ab9004048a1d6.m3u8
-Powder,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-656fb850cb7e8e6a9bc3f36e.m3u8
-Pro Wrestling TV,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-62b124bb32ebdc6c67a7eea1.m3u8
-PursuitUP,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63628eb88e4b18ca22f897dc.m3u8
-Qwest TV,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-60b0f65c0c8ffb002c821a75.m3u8
-RCN Más,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6244f2d33ef43121e567cf13.m3u8
-Racing America,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-61a945156547ba4d6d238dc9.m3u8
-Reuters TV,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5eea71d65252710041e0ccbc.m3u8
-Revry,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5ef11487d33ab9004048a1d9.m3u8
-RevryNews,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5f458dded93f4a0041cb1f63.m3u8
-Robot Wars by Mech+,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6470477fe536e0faaf10be9d.m3u8
-Ryan and Friends,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5f91c4ea96a391002df9a664.m3u8
-SKWAD,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5f12332eeca6a20040b328e5.m3u8
-SLOPES,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-616df1be2cf008a748c8cb53.m3u8
-SPEEDVISION,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6349ed0eb1adc4cfa571fd37.m3u8
-Saber Mas,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6018913ea15130002b284195.m3u8
-Saborear TV,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64f0d9a7c2bc9b9001d46ea6.m3u8
-Shemaroo Bollywood,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-62d1a58e520656fda09e609d.m3u8
-Smooth Jazz,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-62ee784852f7d73061eec493.m3u8
-Smurf TV,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-639b8d803f4612cc150a5721.m3u8
-Snowboarder,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-656fbac9dbcce28c3a417419.m3u8
-Sonic TV,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-62ba4aaff663580a7238f327.m3u8
-SportsGrid,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5ef11485d33ab9004048a1ca.m3u8
-Stingray Holidayscapes,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-654eb862dde2222e8ba551f1.m3u8
-Stingray Karaoke,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-62f156b1ed056a1db9ef3d67.m3u8
-Stingray Naturescape,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-62fbf52c1567211fdb82e922.m3u8
-Strongman Champions,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-644b13a3a1c0a5b2024c8403.m3u8
-Surfer,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-656fbbd6dbcce28c3a41741b.m3u8
-Survivor Mexico,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-657222390c7d9b1f1ebc515d.m3u8
-TED,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-62ab5aabbb869dd0df6a3487.m3u8
-TG Junior,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5f123330eca6a20040b328e8.m3u8
-TRACE Brazuca,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6329474265c8569187176338.m3u8
-TRACE Latina,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63226c03e67cf9cd9011fcdf.m3u8
-TRACE Urban,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6322658be67cf9cd9011fcda.m3u8
-TV Amor,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64bf622acd02bd309fc30567.m3u8
-The Boat Show,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5efe1de6e0b3f5003f5d9f82.m3u8
-The Bob Ross Channel,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5efe1de6e0b3f5003f5d9f88.m3u8
-The Bob Ross Channel en Español,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-636442f69aabc8029c6d6b8d.m3u8
-The Carol Burnett Show,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-60d4edd6b2fdec002c141125.m3u8
-The Design Network,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5f0641d3e8ffda004033b16e.m3u8
-The Ed Sullivan Show,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-640205c68ecb41f2d89d5814.m3u8
-The Film Detective,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5eea605674085f0040ddc7a3.m3u8
-The Pet Collective,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5f170d61b898490041b49369.m3u8
-The Preview Channel,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-608083444363b700366942df.m3u8
-The Spa,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-62f11395586633e88e3a3274.m3u8
-The World Poker Tour,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-656fa24bdbcce28c3a417415.m3u8
-The Wu Tang Collection Spanish,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63c99b835feb7b9655cb196f.m3u8
-Times Now Navbharat,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-631a605b260b7e21d0b819ee.m3u8
-Today's K-Pop,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-62ee6eae271f393d2d9f7096.m3u8
-Todo Cine,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-644c446d7472b186783f359e.m3u8
-Todo Novelas,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6490e59918a55242eea95995.m3u8
-Toon Goggles,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5eea605574085f0040ddc794.m3u8
-Toon Goggles en Español,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6041643175c115002dc51259.m3u8
-Top Cine,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-608b7094a09205002da4f291.m3u8
-Trailers From Hell,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-61d738b5a7b7c7f703418514.m3u8
-Transworld Skateboarding,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-656fb965cb7e8e6a9bc3f370.m3u8
-True History,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-614398a08f30fa61e0da7c97.m3u8
-Tu Cine,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6018913ea15130002b284193.m3u8
-USA TODAY,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-60df3e18541143002f3b8607.m3u8
-USA TODAY SPORTS,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-60df3e18541143002f3b8609.m3u8
-Ultimate Classic Wrestling,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64e6eff227a915f9b5184e9e.m3u8
-Unbeaten,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-633239caa6615514fb78ecf3.m3u8
-Unexplained,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-62913be9a0ed9c2b6ae63bac.m3u8
-Us Weekly TV,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-60a9d105d162b9002d05a60e.m3u8
-Vivaldi,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-61bb9a63e0b39cfe304c9a8a.m3u8
-WITZ-Comedy TV,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6490d0a03b3ce9e1aaad95c0.m3u8
-Washington Post Television,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64bf5ed5fa25ad1c59ae7472.m3u8
-Watch it Kid,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-621672612c2627c068e73ad6.m3u8
-Watch it SCREAM,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-621671d05abdd3d5556a1baf.m3u8
-Waypoint TV,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5fd115b8b7ef8d002dcf1817.m3u8
-WeatherSpy,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5f0ff266d71dcb00449ec030.m3u8
-WildEarth,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-60d4edddb2fdec002c141135.m3u8
-Wired2Fish,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-608a2c722957c9002c6a617b.m3u8
-Women's Sports Network,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-630fa9e577ec3866def38fa2.m3u8
-Wu Tang Collection,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5eea605474085f0040ddc770.m3u8
-XFC TV,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-621670feab2095ca85353ad4.m3u8
-Y2K,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-62ee72cc271f393d2d9f7098.m3u8
-Yahoo Finance,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5f170f01b898490041b49dd1.m3u8
-i24NEWS Updates,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-61e9af453508a50f84213dd6.m3u8
-party tyme karaoke,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5f17a1a283581000409bd875.m3u8
-pocket.watch,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5f91c4ea96a391002df9a661.m3u8
-Éxitos del Momento,https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-62efba6588a16bb7d6b6fb58.m3u8
+斗鱼,#genre#
+【RM-点播】点播！模式-24H欢乐不断,http://epg.112114.xyz/douyu/131977
+【RM-轮播】轮播！模式-24H欢乐不断,http://epg.112114.xyz/douyu/7298973
+计划！五一节の快乐,http://epg.112114.xyz/douyu/7528160
+美味！蟹黄堡,http://epg.112114.xyz/douyu/8762358
+海绵与大星直播间,http://epg.112114.xyz/douyu/2250349
+【三笠】根本不存在解不开的迷！,http://epg.112114.xyz/douyu/7050342
+宝可梦加油。感谢大家。,http://epg.112114.xyz/douyu/9765742
+星矢-燃烧吧我的小宇宙,http://epg.112114.xyz/douyu/8458270
+松开的手0.0,http://epg.112114.xyz/douyu/10210568
+妖精的直播间,http://epg.112114.xyz/douyu/5960746
+【动画电影】童年回忆,http://epg.112114.xyz/douyu/10395973
+【星星动画】童年热血搞笑爱情,http://epg.112114.xyz/douyu/4369939
+【追忆】国语超清动画电影,http://epg.112114.xyz/douyu/6449849
+【动漫】24小时不间断动漫专场,http://epg.112114.xyz/douyu/7493575
+老爹:还有一件事,http://epg.112114.xyz/douyu/7134757
+开心锤锤，开心快乐每一天！,http://epg.112114.xyz/douyu/9018297
+舔狗波比的幸福生活,http://epg.112114.xyz/douyu/7620081
+最好看的搞笑篮球动漫,http://epg.112114.xyz/douyu/9401305
+中二日记搞笑日常更新,http://epg.112114.xyz/douyu/9505575
+铁头与橘子（每周更新一起看霸总）,http://epg.112114.xyz/douyu/9450942
+笑出腹肌动漫0,http://epg.112114.xyz/douyu/8380708
+【贝爷MAX厅】科幻动作经典喜剧,http://epg.112114.xyz/douyu/4332
+【西游】由爱故生怨，怨恨交缠，那又何苦,http://epg.112114.xyz/douyu/9518204
+狄仁杰：想听听我的故事吗,http://epg.112114.xyz/douyu/674441
+【牛叔】N分钟带你看完大片,http://epg.112114.xyz/douyu/2758565
+斗鱼电影,http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337984fd3341cc9ec569502e4f&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0ac75fafd8679bb53af10de8c33ae99d9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
+斗鱼电影2,http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=7d054e041804e80af8aa7e975e2d8573&token=cpn-androidmpro-0-85894-a3575d938a4aa309c687f5fb85a1009fc65cfbeeb2672310&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=pla
+粤语综艺,http://epg.112114.xyz/douyu/7919720
+华语经典,http://epg.112114.xyz/douyu/434971
+吃米滴虫,http://epg.112114.xyz/douyu/315457
+神乐影片1,http://epg.112114.xyz/douyu/122402
+神乐影片2,http://epg.112114.xyz/douyu/85894
+特辑影院,http://epg.112114.xyz/douyu/3637778
+贝爷MAX厅,http://epg.112114.xyz/douyu/4332
+漫威影片,http://epg.112114.xyz/douyu/6140589
+周星驰电影,http://epg.112114.xyz/douyu/3990812
+刘德华电影1,http://epg.112114.xyz/douyu/2516864
+刘德华电影2,http://epg.112114.xyz/douyu/8985415
+喜剧经典,http://epg.112114.xyz/douyu/9650887
+豆瓣高分,http://epg.112114.xyz/douyu/8770422
+林正英电影1,http://epg.112114.xyz/douyu/218859
+林正英电影2,http://epg.112114.xyz/douyu/7356023
+贝爷影厅1,http://epg.112114.xyz/douyu/252802
+贝爷影厅2,http://epg.112114.xyz/douyu/36337
+霍格影片,http://epg.112114.xyz/douyu/8814650
+可乐电影,http://epg.112114.xyz/douyu/20415
+冰冰经典电影,http://epg.112114.xyz/douyu/74374
+奶虫恐怖电影,http://epg.112114.xyz/douyu/263824
+奶瓶科幻片,http://epg.112114.xyz/douyu/6655271
+林林影院,http://epg.112114.xyz/douyu/9652323
+漫威电影,http://epg.112114.xyz/douyu/4282654
+恐怖经典,http://epg.112114.xyz/douyu/1165374
+变种人电影,http://epg.112114.xyz/douyu/9651304
+华语电影,http://epg.112114.xyz/douyu/3928
+华语动作电影,http://epg.112114.xyz/douyu/1504768
+怀旧90,http://epg.112114.xyz/douyu/9275635
+国产影片,http://epg.112114.xyz/douyu/5423
+高帧影片,http://epg.112114.xyz/douyu/6763930
+米娅电影,http://epg.112114.xyz/douyu/6537888
+小九电影,http://epg.112114.xyz/douyu/7136517
+连续剧1,http://epg.112114.xyz/douyu/4549169
+连续剧2,http://epg.112114.xyz/douyu/7623292
+连续剧3,http://epg.112114.xyz/douyu/5689514
+连续剧5,http://epg.112114.xyz/douyu/4396972
+游戏解说,http://epg.112114.xyz/douyu/805235
+斗鱼小品,http://epg.112114.xyz/douyu/3980787
+斗鱼动画,http://epg.112114.xyz/douyu/7528160
+斗鱼电影1,http://epg.112114.xyz/douyu/2935323
+斗鱼电影2,http://epg.112114.xyz/douyu/7459925
+斗鱼电影3,http://epg.112114.xyz/douyu/431460
+斗鱼电影4,http://epg.112114.xyz/douyu/4246519
+斗鱼电影5,http://epg.112114.xyz/douyu/7116591
+斗鱼电影6,http://epg.112114.xyz/douyu/6776615
+斗鱼电影7,http://epg.112114.xyz/douyu/7655471
+斗鱼电影9,http://epg.112114.xyz/douyu/6566671
+斗鱼电影10,http://epg.112114.xyz/douyu/8475821
+斗鱼电影11,http://epg.112114.xyz/douyu/338759
+斗鱼电影12,http://epg.112114.xyz/douyu/2793084
+斗鱼电影13,http://epg.112114.xyz/douyu/5067952
+斗鱼电影14,http://epg.112114.xyz/douyu/413573
+斗鱼电影15,http://epg.112114.xyz/douyu/5033502
+斗鱼电影16,http://epg.112114.xyz/douyu/426517
+斗鱼电影18,http://epg.112114.xyz/douyu/7314294
+斗鱼电影19,http://epg.112114.xyz/douyu/6582435
+斗鱼电影20,http://epg.112114.xyz/douyu/323876
+斗鱼4K,http://epg.112114.xyz/douyu/9249162
+斗鱼电影HD1,http://epg.112114.xyz/douyu/20415
+斗鱼电影HD2,http://epg.112114.xyz/douyu/10240553
+斗鱼电影HD3,http://epg.112114.xyz/douyu/122402
+斗鱼电影HD4,http://epg.112114.xyz/douyu/85894
+斗鱼电影HD5,http://epg.112114.xyz/douyu/263824
+斗鱼电影HD6,http://epg.112114.xyz/douyu/747764
+斗鱼电影HD7,http://epg.112114.xyz/douyu/20415
+斗鱼电影HD8,http://epg.112114.xyz/douyu/8663752
+斗鱼电影HD9,http://epg.112114.xyz/douyu/323876
+斗鱼电影HD10,http://epg.112114.xyz/douyu/6140589
+斗鱼电影HD11,http://epg.112114.xyz/douyu/8770422
+斗鱼电影HD12,http://epg.112114.xyz/douyu/2436390
+斗鱼电影HD13,http://epg.112114.xyz/douyu/218859
+斗鱼电影HD14,http://epg.112114.xyz/douyu/36337
+斗鱼电影HD15,http://epg.112114.xyz/douyu/413573
+斗鱼电影HD16,http://epg.112114.xyz/douyu/1504768
+斗鱼电影HD17,http://epg.112114.xyz/douyu/3637726
+斗鱼电影HD18,http://epg.112114.xyz/douyu/9292492
+斗鱼电影HD19,http://epg.112114.xyz/douyu/3637765rrt97
+斗鱼电影HD20,http://epg.112114.xyz/douyu/10395991
+斗鱼电影HD21,http://epg.112114.xyz/douyu/10395986
+斗鱼电影HD22,http://epg.112114.xyz/douyu/252802
+斗鱼电影HD23,http://epg.112114.xyz/douyu/6079455
+斗鱼电影HD24,http://epg.112114.xyz/douyu/315131
+斗鱼电影HD25,http://epg.112114.xyz/douyu/8945323
+斗鱼电影HD26,http://epg.112114.xyz/douyu/2516864
+斗鱼电影HD27,http://epg.112114.xyz/douyu/248753
+斗鱼电影HD28,http://epg.112114.xyz/douyu/4332
+斗鱼电影HD29,http://epg.112114.xyz/douyu/9651304
+斗鱼电影HD30,http://epg.112114.xyz/douyu/9650887
+斗鱼电影HD31,http://epg.112114.xyz/douyu/8814650
+斗鱼电影HD32,http://epg.112114.xyz/douyu/10240510
+斗鱼电影HD33,http://epg.112114.xyz/douyu/52787
+斗鱼电影HD34,http://epg.112114.xyz/douyu/8985415
+斗鱼电影HD35,http://epg.112114.xyz/douyu/1165374
+斗鱼电影HD36,http://epg.112114.xyz/douyu/1735337
+斗鱼电影HD37,http://epg.112114.xyz/douyu/6537888
+斗鱼电影HD38,http://epg.112114.xyz/douyu/6003761
+斗鱼电影HD39,http://epg.112114.xyz/douyu/9683979
+斗鱼电影HD40,http://epg.112114.xyz/douyu/1226741
+斗鱼电影HD41,http://epg.112114.xyz/douyu/59612
+斗鱼电影HD42,http://epg.112114.xyz/douyu/925724
+斗鱼搞笑HD1,http://epg.112114.xyz/douyu/9220456
+斗鱼搞笑HD2,http://epg.112114.xyz/douyu/9770949
+斗鱼搞笑HD3,http://epg.112114.xyz/douyu/9067836
+斗鱼搞笑HD4,http://epg.112114.xyz/douyu/9817729
+斗鱼搞笑HD5,http://epg.112114.xyz/douyu/8737695
