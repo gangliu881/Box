@@ -613,7 +613,7 @@ CCTV-4K,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw4259108076_49652
 
 CHC动作电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-上海酒店
+上海酒店,#genre#
 
 新闻综合,http://116.234.54.1:7777/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://116.234.54.1:7777/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -698,7 +698,7 @@ CETV,http://116.234.54.1:7777/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&auth
 吉林卫视,http://116.234.54.1:7777/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
 三沙卫视,http://116.234.54.1:7777/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0
 兵团卫视,http://116.234.54.1:7777/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
-吕梁酒店
+吕梁酒店,#genre#
 
 岚县电视台,http://124.165.251.82:9999/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 吕梁一台,http://124.165.251.82:9999/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -745,7 +745,7 @@ CCTV14-少儿,http://124.165.251.82:9999/tsfile/live/0014_1.m3u8?key=txiptv&play
 CCTV15-音乐,http://124.165.251.82:9999/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5+,http://124.165.251.82:9999/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 
-潍坊酒店
+潍坊酒店,#genre#
 山东卫视,http://222.173.134.150:8888/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://222.173.134.150:8888/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 陕西卫视,http://222.173.134.150:8888/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -804,7 +804,7 @@ CCTV14-少儿,http://222.173.134.150:8888/tsfile/live/0014_1.m3u8?key=txiptv&pla
 CCTV15-音乐,http://222.173.134.150:8888/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5+体育赛事,http://222.173.134.150:8888/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV17-农业农村,http://222.173.134.150:8888/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
-河北酒店
+河北酒店,#genre#
 
 中央1高清,http://121.19.134.2:808/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 中央2高清,http://121.19.134.2:808/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -876,7 +876,7 @@ CCTV风云足球,http://121.19.134.2:808/tsfile/live/1037_1.m3u8?key=txiptv&play
 秦皇岛-1,http://121.19.134.2:808/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
 唐山新闻综合,http://121.19.134.2:808/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
 张家口-1,http://121.19.134.2:808/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
-山西酒店
+山西酒店,#genre#
 CCTV1-综合,http://118.81.138.217:9999/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2-财经,http://118.81.138.217:9999/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3-综艺,http://118.81.138.217:9999/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
