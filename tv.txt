@@ -934,7 +934,7 @@ CCTV5+体育高清,http://118.81.138.73:9999/tsfile/live/1000_1.m3u8?key=txiptv&
 山西公共,http://118.81.138.73:9999/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 山西影视,http://118.81.138.73:9999/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 山西科教,http://118.81.138.73:9999/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-体育,#genre#
+
 风云足球,http://118.81.138.73:9999/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
