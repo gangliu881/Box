@@ -613,69 +613,7 @@ CCTV-4K,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw4259108076_49652
 
 CHC动作电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-境外测试,#genre#
-Globo SP HD²,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/289884
-ESPN HD²,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/209
-ESPN2 HD²,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/214
-ESPN3 HD²,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/219
-ESPN4 HD²,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/224
-ESPN Extra² HD,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/229
-AMC HD²,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/670
-SporTV FHD²,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/52090
-SPORTV HD²,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/548
-SporTV 2 HD²,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/553
-SporTV  2 SD²,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118704
-SporTV 3 HD²,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/558
-SporTV 3 SD²,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118706
-TNT Novelas  HD,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/264556
-Disc. Home &  Health HD²,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2571
-Disc. Science HD²,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2581
-Disc. Theater HD²,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2586
-Disc. Turbo HD²,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2591
-Disc. World HD²,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2596
-Discovery Kids HD,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/363
-Disney Channel HD,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/356
-E! HD,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2471
-History 2 HD,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2620
-History HD²,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2616
-ID HD²,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2631
-Jovem Pan News HD²,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118890
-Lifetime HD,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2487
-Megapix HD²,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/691
-Modo Viagem HD,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/89182
-MTV HD,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2503
-Multishow HD,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2515
-Music Box Brazil FHD,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2520
-National Geographic HD²,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2636
-Nick Jr. HD,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/367
-Nickelodeon HD,http://cdn.connectbr.com.br/Nickelodeon/index.m3u8?ManoTV
-OFF HD,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/252
-TNT HD²,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21285
-TNT Series HD²,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/737
-Tru TV HD,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2640
-TV Aparecida HD,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/189
-TV Brasil HD,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/165
-TV Gazeta SP HD,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/174
-Universal TV HD,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21288
-Viva HD,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2536
-RecordTV SP HD²,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/244076
-RecordTV MINAS HD,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/244099
-SBT SP HD²,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/244166
-Band SP HD,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/255467
-Band MG HD,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/255483
-CINE SKY PLAY 5,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18257
-CINE SKY PLAY 6,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18258
-CINE SKY PLAY 7,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18259
-CINE SKY PLAY 8,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18260
-CINE SKY PLAY 9,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18261
-Telecine Action HD²,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/614
-Telecine Cult HD²,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/619
-Telecine Fun HD²,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/624
-Telecine Pipoca HD²,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/629
-Telecine Premium HD²,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/635
-Telecine Touch HD²,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/588
-Chespirito,http://168.205.87.198:8555/live/1492/123456/159.m3u8?ManoTV
-TV Ratimbum,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/376
+
 
 
 
