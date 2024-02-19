@@ -247,12 +247,10 @@ IPTV淘精彩HD,http://218.241.192.50:8808/udp/239.3.1.178:8001
 IPTV淘剧场HD,http://218.241.192.50:8808/udp/239.3.1.95:8001
 IPTV淘娱乐HD,http://218.241.192.50:8808/udp/239.3.1.100:8001
 4K影视,http://nas.jdshipin.com:8801/4kys.php
-TVP2 HD,http://178.219.128.68:64889/TVP2HD
-TVP1 HD,http://178.219.128.68:64889/TVP1HD
-长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist1.m3u8
+
 Telecine Action,http://51.83.238.223:16703/
 TRANCE IS STAR,https://tis.catcast.tv/content/391/index.m3u8
-VIVA,https://s.catcast.tv/content/39575/index.m3u8
+
 SONYSAB,http://tv.cloudcdn.me:80/live.ts?channelId=260&deviceMac=00:1A:79:0A:3B:2D
 VIYANA,http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
 半島新聞台,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
