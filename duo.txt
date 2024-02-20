@@ -2,20 +2,20 @@
         {
     "urls":[
         {
-            "url": "https://raw.fgit.cf/liu673cn/tms/main/m.json",
-            "name": "🐴稳定时光机"
+            "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+            "name": "刚哥在线4"
         },
         {
-            "url": "https://raw.fgit.cf/liu673cn/tm/main/m.json",
-            "name": "🦄本地时光机"
+            "url": "https://cyao.eu.org/files/n.json",
+            "name": "刚哥在线5"
         },
         {
-            "url": "https://raw.fgit.cf/liu673cn/xduo/main/m.json",
-            "name": "🏡多多家庭版-新"
+            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+            "name": "刚哥在线6"
         },
         {
-            "url": "https://www.891218.xyz/free/jk/hyxuandm.json",
-            "name": "🏡环宇轩"
+            "url": "https://raw.githubusercontent.com/hanhan8127/TVBox/main/hanhan",
+            "name": "胜寒"
         },
         {
             "url": "https://codeberg.org/xvnhs/xngb/raw/branch/Xbox/xbfbe.json",
@@ -32,7 +32,7 @@
             "name": "🏡刚哥在线1"
         },
         {
-            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+            "url": "https://raw.githubusercontent.com/hy5528/tvbox/main/XC.json",
             "name": "🏡刚哥在线2"
         },
         {
