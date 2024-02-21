@@ -102,6 +102,23 @@ CGTN新闻,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch000000909900000010
 
 精彩影视,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000320630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000320630&livemode=1&stbId=3
 风尚音乐,http://[2409:8087:7001:20:1000::95]:6610/000000001000/5529729098703832176/index.m3u8?channel-id=wasusyt&Contentid=5529729098703832176&livemode=1&stbId=3
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=174257d7612ab5f2b3ce70c837c84683&wsTime=1708511713
+新闻频道,http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=51cf225ec6f7fbec62a6543c18e12b19&wsTime=1708511713
+都市频道,http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=70b804d8e38c32e5a7538a7715987f77&wsTime=1708511713
+民生频道,http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=46836b80536c243fce03efeef1d10e5d&wsTime=1708511713
+法治频道,http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=d73148eb919846b3e924bd11220a8be0&wsTime=1708511713
+公共频道,http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=5a17aee24406dda993343d0de857bdf2&wsTime=1708511713
+河南乡村频道,http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=c4742126d0fad1ad9626a30c69daead1&wsTime=1708511713
+电视剧频道,http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=520348c768e56addaa9ca55bf99ae611&wsTime=1708511713
+河南国际,http://tvcdn.stream3.hndt.com/tv/65b7751f017e1000d8998f0900000000_transios/playlist.m3u8?wsSecret=c008ce25b1f4066f6da14906947dfe48&wsTime=1708511713
+梨园频道,http://tvcdn.stream3.hndt.com/tv/65b67b15017e1000258a2b2400000000_transios/playlist.m3u8?wsSecret=764e2cf661a2ad12db42db0986adb9c5&wsTime=1708511713
+文物宝库,http://tvcdn.stream3.hndt.com/tv/65b5a69d017e1000aa645bea00000000_transios/playlist.m3u8?wsSecret=26ce150cec88f6c947eb3ab1f4e65a08&wsTime=1708511713
+武术频道,http://tvcdn.stream3.hndt.com/tv/65b4b750017e1000dbb9306200000000_transios/playlist.m3u8?wsSecret=8e3f79bfe525be1d51fe6ef0a3cbf4b0&wsTime=1708511713
+睛彩中原,http://tvcdn.stream3.hndt.com/tv/65b27d4c017e100039bd55c200000000_transios/playlist.m3u8?wsSecret=8756d9f45ff66df4458385dd02e1aa6f&wsTime=1708511713
+移动戏曲频道,https://tvcdn.stream3.hndt.com/tv/160ea8971f8b41f0905f88c7afe3effe_transios/playlist.m3u8?wsSecret=bec1afa15bd5d9653c23f1a3a9005009&wsTime=1708511713
+象视界,http://tvcdn.stream3.hndt.com/tv/d34d1a2b0178100022de972e00000000_transios/playlist.m3u8?wsSecret=502b7829c69b1be4a280b9d2006b7e9f&wsTime=1708511713
+国学频道,http://tvcdn.stream3.hndt.com/tv/7a2078d40184100092f63e9d00000000_transios/playlist.m3u8?wsSecret=08614baa9ad3a775020cf31ae0654c48&wsTime=1708511713
+
 
 CETV-1,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 CETV-2,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
