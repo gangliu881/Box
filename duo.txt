@@ -14,8 +14,8 @@
             "name": "刚哥在线6"
         },
         {
-            "url": "https://raw.githubusercontent.com/hanhan8127/TVBox/main/hanhan",
-            "name": "胜寒"
+            "url": "https://raw.githubusercontent.com/gangliu881/Box/main/gangge.json",
+            "name": "刚哥在线7"
         },
         {
             "url": "https://codeberg.org/xvnhs/xngb/raw/branch/Xbox/xbfbe.json",
