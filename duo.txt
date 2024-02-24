@@ -69,8 +69,8 @@
             "name": "🌟饭太硬"
         },
         {
-            "url": "https://weixine.net/ysc.json",
-            "name": "🚀运输车"
+            "url": "https://raw.githubusercontent.com/child9527/tvbox/main/sft.json",
+             "name": "刚哥在线8"
         },
         {
             "url": "http://pandown.pro/tvbox/tvbox.json",
