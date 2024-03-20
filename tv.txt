@@ -1,8 +1,7 @@
 测试,#genre#
 无线星河粤,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8#http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 无线功夫台,https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8#https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
-测试3,http://[2409:8087:1a01:df::4035]/PLTV/88888888/224/3221225502/index.m3u8
-测试2,http://[2409:8087:1a01:df::4031]/PLTV/88888888/224/3221225994/index.m3u8
+
 
 电视直播,#genre#
 
