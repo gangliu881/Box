@@ -1,6 +1,8 @@
 测试,#genre#
 无线星河粤,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8#http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 无线功夫台,https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8#https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
+TVB 翡翠台,https://fake-stream.livednow.com/mdvb/jade?token=321b0a36ca2aed06ebaa85d8012df385&user_id=1254950701&user_token=9f7ce824f2caceacca70a2fc1cd96236
+
 电视直播,#genre#
 
 
