@@ -3,7 +3,8 @@
 无线功夫台,https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8#https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 重温经典,http://mtw.so/5NPX0U
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-重温经典,http://125.210.150.58:9090/live/hzgq-cwjdgq-h264.m3u8
+astroaura,http://alpha5-bx.me:80/play/live.php?mac=00:1A:79:00:04:10&stream=571257&extension=m3u8
+astroWsport,http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:7C:23:B8&stream=1379228&extension=m3u8
 
 
 
