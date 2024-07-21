@@ -2,52 +2,6 @@
 
 
 
-🔥精彩频道,#genre#
-星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193
-凤凰测试,http://www.erbao1981.top:8188/udp/239.76.246.135:1234$湖南电信
-
-
-大爱一套,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-大爱二套,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-
-金鹰纪实 HD,http://sunny2017.forver.one:4022/udp/239.21.1.170:5002
-上海纪实 HD,http://sunny2017.forver.one:4022/udp/239.21.1.171:5002
-北京纪实 HD,http://sunny2017.forver.one:4022/udp/239.21.1.172:5002
-环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
-
-
-人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
-番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
-
-港台电视33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8?$720P
-港台电视33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8?$1080P
-港台电视34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8?$720P
-港台电视34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8?$1080P
-港台电视35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream04/streamPlaylist.m3u8?$720P
-港台电视35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8?$1080P
-耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-
-澳门莲花,http://php.jdshipin.com:8880/amlh.php
-
-星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193
-
-
-
-
-J2,https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
-TVB星河,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
-TVB星河国语,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
-亚洲武侠,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
-
-TVBS新闻台,http://61.221.215.25:8800/hls/9/index.m3u8
-三立戏剧台,http://61.221.215.25:8800/hls/41/index.m3u8
-八大戏剧台,http://61.221.215.25:8800/hls/39/index.m3u8
-八大第1台,http://61.221.215.25:8800/hls/55/index.m3u8
-八大综合台,http://61.221.215.25:8800/hls/56/index.m3u8
-
-
-
-
 
 
 
