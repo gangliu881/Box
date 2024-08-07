@@ -76,6 +76,7 @@ CCTV15-音乐,http://124.128.73.58:9901/tsfile/live/0015_1.m3u8
 测试,#genre#
 无线星河粤,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8#http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 无线功夫台,https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8#https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
+1111,http://1.194.52.10:10086/rtp/239.16.20.9:10090
 
 
 电视直播,#genre#
