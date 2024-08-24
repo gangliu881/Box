@@ -82,7 +82,7 @@ CCTV15-音乐,http://124.128.73.58:9901/tsfile/live/0015_1.m3u8
 无线星河粤,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8#http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 无线功夫台,https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8#https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 
-CS,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/index.m3u8
+
 
 
 电视直播,#genre#
