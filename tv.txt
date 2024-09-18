@@ -212,22 +212,22 @@ CHC影迷电影,http://avd.iptviptv.site:9694/hls/702/index.m3u8
 北京新闻,http://avd.iptviptv.site:9694/hls/811/index.m3u8
 北京卡酷少儿,http://avd.iptviptv.site:9694/hls/812/index.m3u8
 北京国际,http://avd.iptviptv.site:9694/hls/813/index.m3u8
-V音乐台,http://avd.iptviptv.site:9694/hls/1000/index.m3u8
-HBO,http://avd.iptviptv.site:9694/hls/1001/index.m3u8
-今日俄罗斯,http://avd.iptviptv.site:9694/hls/1003/index.m3u8
-日本NHK,http://avd.iptviptv.site:9694/hls/1004/index.m3u8
-韩国KBS,http://avd.iptviptv.site:9694/hls/1005/index.m3u8
-翡翠台(广电),http://avd.iptviptv.site:9694/hls/99/index.m3u8
-明珠台,http://avd.iptviptv.site:9694/hls/103/index.m3u8
-翡翠台(原版),http://avd.iptviptv.site:9694/hls/98/index.m3u8
-千禧经典台,http://avd.iptviptv.site:9694/hls/901/index.m3u8
-翡翠台4k,http://avd.iptviptv.site:9694/hls/902/index.m3u8
-Animax,http://avd.iptviptv.site:9694/hls/903/index.m3u8
-美亚电影台,http://avd.iptviptv.site:9694/hls/904/index.m3u8
-TVB PLUS,http://avd.iptviptv.site:9694/hls/905/index.m3u8
-无线新闻台,http://avd.iptviptv.site:9694/hls/906/index.m3u8
-天映經典頻道,http://avd.iptviptv.site:9694/hls/914/index.m3u8
-黃金翡翠台,http://avd.iptviptv.site:9694/hls/916/index.m3u8
+测试1,http://avd.iptviptv.site:9694/hls/1000/index.m3u8
+测试2,http://avd.iptviptv.site:9694/hls/1001/index.m3u8
+测试3,http://avd.iptviptv.site:9694/hls/1003/index.m3u8
+测试4,http://avd.iptviptv.site:9694/hls/1004/index.m3u8
+测试5,http://avd.iptviptv.site:9694/hls/1005/index.m3u8
+测试6,http://avd.iptviptv.site:9694/hls/99/index.m3u8
+测试7,http://avd.iptviptv.site:9694/hls/103/index.m3u8
+测试8,http://avd.iptviptv.site:9694/hls/98/index.m3u8
+测试9,http://avd.iptviptv.site:9694/hls/901/index.m3u8
+测试10,http://avd.iptviptv.site:9694/hls/902/index.m3u8
+测试11,http://avd.iptviptv.site:9694/hls/903/index.m3u8
+测试12,http://avd.iptviptv.site:9694/hls/904/index.m3u8
+测试13,http://avd.iptviptv.site:9694/hls/905/index.m3u8
+测试14,http://avd.iptviptv.site:9694/hls/906/index.m3u8
+测试15,http://avd.iptviptv.site:9694/hls/914/index.m3u8
+测试16,http://avd.iptviptv.site:9694/hls/916/index.m3u8
 
 
 
