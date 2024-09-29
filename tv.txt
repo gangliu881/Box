@@ -71,13 +71,7 @@ CCTV17,http://tnvcn.com:8012/rtp/239.3.1.151:8144
 天津卫视,http://tnvcn.com:8012/rtp/239.3.1.141:1234
 浙江卫视,http://tnvcn.com:8012/rtp/239.3.1.137:8036
 重庆卫视,http://tnvcn.com:8012/rtp/239.3.1.122:8160
-云南卫视,http://czkeji.vip:9000/rtp/239.252.219.185:5140
-四川卫视,http://czkeji.vip:9000/rtp/239.252.220.93:5140
-广西卫视,http://czkeji.vip:9000/rtp/239.252.219.183:5140
-河北卫视,http://czkeji.vip:9000/rtp/239.252.220.154:5140
-河南卫视,http://czkeji.vip:9000/rtp/239.252.220.189:5140
-甘肃卫视,http://czkeji.vip:9000/rtp/239.252.219.140:5140
-海南卫视,http://czkeji.vip:9000/rtp/239.252.219.178:5140
+
 
 康巴卫视,http://xubo0712.asuscomm.cn:9999/rtp/239.93.0.41:5140
 陕西卫视,http://xubo0712.asuscomm.cn:9999/rtp/239.93.0.143:5140
