@@ -14,7 +14,16 @@
 内蒙农牧,https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=b5e44fcd9473993661f17746112ad1b7&txTime=771E8800
 蒙语卫视,https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=e2b255285dd119a92c8aa5cdf00f8b84&txTime=771EF880
 蒙语文化,https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=2250268a1d326dbbc4cbf0ba32649ca5&txTime=771E8800
-
+CCTV兵器科技,http://mryx.fun:1025/udp/239.11.0.57:1025
+CCTV风云足球,http://mryx.fun:1025/udp/239.11.0.59:1025
+CCTV央视台球,http://mryx.fun:1025/udp/239.11.0.60:1025
+CCTV女性时尚,http://mryx.fun:1025/udp/239.11.0.62:1025
+CCTV世界地理,http://mryx.fun:1025/udp/239.11.0.63:1025
+CCTV怀旧剧场,http://mryx.fun:1025/udp/239.11.0.64:1025
+CCTV风云剧场,http://mryx.fun:1025/udp/239.11.0.65:1025
+CCTV文化精品,http://mryx.fun:1025/udp/239.11.0.66:1025
+CCTV第一剧场,http://mryx.fun:1025/udp/239.11.0.67:1025
+CCTV风云音乐,http://mryx.fun:1025/udp/239.11.0.68:1025
 1905亚洲,http://tv.kakaxi-1.ink:8899/1905.php?id=1905a
 1905国际,http://tv.kakaxi-1.ink:8899/1905.php?id=1905b
 
