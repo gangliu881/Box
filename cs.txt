@@ -1,1873 +1,404 @@
-#EXTM3U
-#EXTINF:-1 ,====== 电视CS,#genre# ======
-http://0/0.m3u8
-#EXTINF:-1 ,兵器科技
-http://www.lizhinas.top:8688/rtp/239.252.219.98:5140%24%E6%B1%9F%E8%A5%BFcmc3+
-#EXTINF:-1 ,第一剧场
-http://www.lizhinas.top:8688/rtp/239.252.219.86:5140%24%E6%B1%9F%E8%A5%BFcmc3+
-#EXTINF:-1 ,风云音乐
-http://www.lizhinas.top:8688/rtp/239.252.219.87:5140%24%E6%B1%9F%E8%A5%BFcmc3+
-#EXTINF:-1 ,CHC动作电影
-http://ds920.dsmynas.net:5555/rtp/226.0.2.94:8012%24%E5%B1%B1%E8%A5%BFuni2+
-#EXTINF:-1 ,CHC家庭影院
-http://ds920.dsmynas.net:5555/rtp/226.0.2.240:9820%24%E5%B1%B1%E8%A5%BFuni2+
-#EXTINF:-1 ,CHC影迷电影
-http://ds920.dsmynas.net:5555/rtp/226.0.2.93:8004%24%E5%B1%B1%E8%A5%BFuni2+
-#EXTINF:-1 ,重温经典
-http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-#EXTINF:-1 ,淘电影
-http://tnvcn.com:8012/rtp/239.3.1.250:8001%24%E5%8C%97%E4%BA%ACuni1+
-#EXTINF:-1 ,淘剧场
-http://tnvcn.com:8012/rtp/239.3.1.95:8001%24%E5%8C%97%E4%BA%ACuni1+
-#EXTINF:-1 ,淘娱乐
-http://tnvcn.com:8012/rtp/239.3.1.100:8001%24%E5%8C%97%E4%BA%ACuni1+
-#EXTINF:-1 ,淘BABY
-http://tnvcn.com:8012/rtp/239.3.1.238:8001%24%E5%8C%97%E4%BA%ACuni1+
-#EXTINF:-1 ,淘精彩
-http://tnvcn.com:8012/rtp/239.3.1.178:8001
-#EXTINF:-1 ,1905亚洲
-http://tv.kakaxi-1.ink:8899/1905.php?id=1905a
-#EXTINF:-1 ,1905国际
-http://tv.kakaxi-1.ink:8899/1905.php?id=1905b
-#EXTINF:-1 ,====== 电视直播,#genre# ======
-http://1/1.m3u8
-#EXTINF:-1 ,浙江新闻
-https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-#EXTINF:-1 ,浙江国际
-https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-#EXTINF:-1 ,浙江少儿
-https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-#EXTINF:-1 ,浙江教科
-https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-#EXTINF:-1 ,之江纪录
-https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-#EXTINF:-1 ,浙江民生
-https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-#EXTINF:-1 ,浙江经济
-https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-#EXTINF:-1 ,浙江钱江
-https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-#EXTINF:-1 ,内蒙新闻
-https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800
-#EXTINF:-1 ,内蒙经济
-https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=8e4b7cf6a2c8a75f74aef1a8a07cef43&txTime=771E8800
-#EXTINF:-1 ,内蒙少儿
-https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0d29895f37c56&txTime=771E8800
-#EXTINF:-1 ,内蒙文体
-https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=82ed51a2a4cbf85b62fec8ef2bfe4529&txTime=771E8800
-#EXTINF:-1 ,内蒙农牧
-https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=b5e44fcd9473993661f17746112ad1b7&txTime=771E8800
-#EXTINF:-1 ,蒙语卫视
-https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=e2b255285dd119a92c8aa5cdf00f8b84&txTime=771EF880
-#EXTINF:-1 ,蒙语文化
-https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=2250268a1d326dbbc4cbf0ba32649ca5&txTime=771E8800
-#EXTINF:-1 ,河南卫视
-http://117.72.68.25:9930/hn.php?id=hnws
-#EXTINF:-1 ,河南都市
-http://117.72.68.25:9930/hn.php?id=hnds
-#EXTINF:-1 ,河南民生
-http://117.72.68.25:9930/hn.php?id=hnms
-#EXTINF:-1 ,河南法治
-http://117.72.68.25:9930/hn.php?id=hmfz
-#EXTINF:-1 ,河南电视剧
-http://117.72.68.25:9930/hn.php?id=hndsj
-#EXTINF:-1 ,河南新闻
-http://117.72.68.25:9930/hn.php?id=hnxw
-#EXTINF:-1 ,欢腾购物
-http://117.72.68.25:9930/hn.php?id=htgw
-#EXTINF:-1 ,河南公共
-http://117.72.68.25:9930/hn.php?id=hngg
-#EXTINF:-1 ,河南乡村
-http://117.72.68.25:9930/hn.php?id=hnxc
-#EXTINF:-1 ,河南国际
-http://117.72.68.25:9930/hn.php?id=hngj
-#EXTINF:-1 ,河南梨园
-http://117.72.68.25:9930/hn.php?id=hnly
-#EXTINF:-1 ,文物宝库
-http://117.72.68.25:9930/hn.php?id=wwbk
-#EXTINF:-1 ,武术世界
-http://117.72.68.25:9930/hn.php?id=wspd
-#EXTINF:-1 ,睛彩中原
-http://117.72.68.25:9930/hn.php?id=jczy
-#EXTINF:-1 ,移动戏曲
-http://117.72.68.25:9930/hn.php?id=ydxj
-#EXTINF:-1 ,象视界
-http://117.72.68.25:9930/hn.php?id=xsj
-#EXTINF:-1 ,河南卫视
-http://49.232.131.30:99/dxxw.php?id=hnws
-#EXTINF:-1 ,河南都市
-http://49.232.131.30:99/dxxw.php?id=hnds
-#EXTINF:-1 ,河南民生
-http://49.232.131.30:99/dxxw.php?id=hnms
-#EXTINF:-1 ,河南法治
-http://49.232.131.30:99/dxxw.php?id=hmfz
-#EXTINF:-1 ,河南电视剧
-http://49.232.131.30:99/dxxw.php?id=hndsj
-#EXTINF:-1 ,河南新闻
-http://49.232.131.30:99/dxxw.php?id=hnxw
-#EXTINF:-1 ,河南公共
-http://49.232.131.30:99/dxxw.php?id=hngg
-#EXTINF:-1 ,河南乡村
-http://49.232.131.30:99/dxxw.php?id=hnxc
-#EXTINF:-1 ,河南梨园
-http://49.232.131.30:99/dxxw.php?id=hnly
-#EXTINF:-1 ,河南文物宝库
-http://49.232.131.30:99/dxxw.php?id=wwbk
-#EXTINF:-1 ,河南武术世界
-http://49.232.131.30:99/dxxw.php?id=wspd
-#EXTINF:-1 ,河南睛彩中原
-http://49.232.131.30:99/dxxw.php?id=jczy
-#EXTINF:-1 ,河南移动戏曲
-http://49.232.131.30:99/dxxw.php?id=ydxj
-#EXTINF:-1 ,河南象视界
-http://49.232.131.30:99/dxxw.php?id=xsj
-#EXTINF:-1 ,国学频道
-http://117.72.68.25:9930/hn.php?id=gxpd
-#EXTINF:-1 ,河南卫视4K
-http://43217878.xyz:5566/rtp/239.16.20.199:11990
-#EXTINF:-1 ,河南卫视HD
-http://43217878.xyz:5566/rtp/239.16.20.21:10210
-#EXTINF:-1 ,大美河南HD
-http://43217878.xyz:5566/rtp/239.16.20.17:10170
-#EXTINF:-1 ,河南大象新闻HD
-http://43217878.xyz:5566/rtp/239.16.20.216:12160
-#EXTINF:-1 ,河南IPTV导视HD
-http://43217878.xyz:5566/rtp/239.16.10.218:2000
-#EXTINF:-1 ,河南都市频道HD
-http://43217878.xyz:5566/rtp/239.16.20.164:11640
-#EXTINF:-1 ,河南民生频道HD
-http://43217878.xyz:5566/rtp/239.16.20.165:11650
-#EXTINF:-1 ,河南法治频道HD
-http://43217878.xyz:5566/rtp/239.16.20.166:11660
-#EXTINF:-1 ,河南电视剧频道HD
-http://43217878.xyz:5566/rtp/239.16.20.167:11670
-#EXTINF:-1 ,河南新闻频道HD
-http://43217878.xyz:5566/rtp/239.16.20.168:11680
-#EXTINF:-1 ,河南欢腾购物HD
-http://43217878.xyz:5566/rtp/239.16.20.169:11690
-#EXTINF:-1 ,河南公共频道HD
-http://43217878.xyz:5566/rtp/239.16.20.170:11700
-#EXTINF:-1 ,河南梨园频道HD
-http://43217878.xyz:5566/rtp/239.16.20.171:11710
-#EXTINF:-1 ,河南文物宝库HD
-http://43217878.xyz:5566/rtp/239.16.20.172:11720
-#EXTINF:-1 ,河南武术世界HD
-http://43217878.xyz:5566/rtp/239.16.20.173:11730
-#EXTINF:-1 ,河南乡村频道HD
-http://43217878.xyz:5566/rtp/239.16.20.195:11950
-#EXTINF:-1 ,河南国际频道HD
-http://43217878.xyz:5566/rtp/239.16.20.196:11960
-#EXTINF:-1 ,河南调解剧场HD
-http://43217878.xyz:5566/rtp/239.16.20.197:11970
-#EXTINF:-1 ,河南移动电视HD
-http://43217878.xyz:5566/rtp/239.16.20.204:12040
-#EXTINF:-1 ,河南戏曲HD
-http://43217878.xyz:5566/rtp/239.16.10.148:2000
-#EXTINF:-1 ,河南移动戏曲HD
-http://43217878.xyz:5566/rtp/239.16.20.120:11200
-#EXTINF:-1 ,河南睛彩中原HD
-http://43217878.xyz:5566/rtp/239.16.20.122:11220
-#EXTINF:-1 ,河南文博HD
-http://43217878.xyz:5566/rtp/239.16.10.149:2000
-#EXTINF:-1 ,河南功夫HD
-http://43217878.xyz:5566/rtp/239.16.10.150:2000
-#EXTINF:-1 ,郑州1新闻综合HD
-http://43217878.xyz:5566/rtp/239.16.10.154:2000
-#EXTINF:-1 ,郑州2商都频道HD
-http://43217878.xyz:5566/rtp/239.16.10.155:2000
-#EXTINF:-1 ,郑州3文体频道HD
-http://43217878.xyz:5566/rtp/239.16.10.156:2000
-#EXTINF:-1 ,郑州4影视戏曲HD
-http://43217878.xyz:5566/rtp/239.16.10.157:2000
-#EXTINF:-1 ,郑州5妇女儿童HD
-http://43217878.xyz:5566/rtp/239.16.10.158:2000
-#EXTINF:-1 ,郑州6都市生活HD
-http://43217878.xyz:5566/rtp/239.16.10.159:2000
-#EXTINF:-1 ,长清新闻
-http://117.72.68.25:9930/qilu.php?id=jncqxw
-#EXTINF:-1 ,济铁电视台
-http://117.72.68.25:9930/qilu.php?id=jnjrtv
-#EXTINF:-1 ,济阳综合
-http://117.72.68.25:9930/qilu.php?id=jnjyzh
-#EXTINF:-1 ,济阳影视
-http://117.72.68.25:9930/qilu.php?id=jnjyys
-#EXTINF:-1 ,历城新闻综合
-http://117.72.68.25:9930/qilu.php?id=jnlcxw
-#EXTINF:-1 ,平阴综合
-http://117.72.68.25:9930/qilu.php?id=jnpyzh
-#EXTINF:-1 ,商河综合
-http://117.72.68.25:9930/qilu.php?id=jnshzh
-#EXTINF:-1 ,商河影视
-http://117.72.68.25:9930/qilu.php?id=jnshys
-#EXTINF:-1 ,章丘综合
-http://117.72.68.25:9930/qilu.php?id=jnzqzh
-#EXTINF:-1 ,章丘公共
-http://117.72.68.25:9930/qilu.php?id=jnzqgg
-#EXTINF:-1 ,东营新闻综合
-http://117.72.68.25:9930/qilu.php?id=dyxwzh
-#EXTINF:-1 ,东营公共
-http://117.72.68.25:9930/qilu.php?id=dygg
-#EXTINF:-1 ,东营公共
-http://117.72.68.25:9930/qilu.php?id=dygg2
-#EXTINF:-1 ,东营科教
-http://117.72.68.25:9930/qilu.php?id=dykj
-#EXTINF:-1 ,东营区新闻综合
-http://117.72.68.25:9930/qilu.php?id=dydyqxw
-#EXTINF:-1 ,东营区科教影视
-http://117.72.68.25:9930/qilu.php?id=dydyqkj
-#EXTINF:-1 ,广饶综合
-http://117.72.68.25:9930/qilu.php?id=dygrzh
-#EXTINF:-1 ,广饶科教文艺
-http://117.72.68.25:9930/qilu.php?id=dygrkj
-#EXTINF:-1 ,垦利新闻综合
-http://117.72.68.25:9930/qilu.php?id=dyklxw
-#EXTINF:-1 ,利津综合
-http://117.72.68.25:9930/qilu.php?id=dyljzh
-#EXTINF:-1 ,利津文化生活
-http://117.72.68.25:9930/qilu.php?id=dyljwh
-#EXTINF:-1 ,黄岛综合
-http://117.72.68.25:9930/qilu.php?id=qdhdzh
-#EXTINF:-1 ,黄岛生活
-http://117.72.68.25:9930/qilu.php?id=qdhdsh
-#EXTINF:-1 ,即墨综合
-http://117.72.68.25:9930/qilu.php?id=qdjmzh
-#EXTINF:-1 ,即墨生活服务
-http://117.72.68.25:9930/qilu.php?id=qdjmsh
-#EXTINF:-1 ,胶州综合
-http://117.72.68.25:9930/qilu.php?id=qdjzzh
-#EXTINF:-1 ,胶州生活
-http://117.72.68.25:9930/qilu.php?id=qdjzsh
-#EXTINF:-1 ,李沧TV
-http://117.72.68.25:9930/qilu.php?id=qdlc
-#EXTINF:-1 ,崂山TV
-http://117.72.68.25:9930/qilu.php?id=qdls
-#EXTINF:-1 ,莱西综合
-http://117.72.68.25:9930/qilu.php?id=qdlxzh
-#EXTINF:-1 ,莱西生活
-http://117.72.68.25:9930/qilu.php?id=qdlxsh
-#EXTINF:-1 ,平度新闻综合
-http://117.72.68.25:9930/qilu.php?id=qdpdxw
-#EXTINF:-1 ,平度生活服务
-http://117.72.68.25:9930/qilu.php?id=qdpdsh
-#EXTINF:-1 ,潍坊新闻综合
-http://117.72.68.25:9930/qilu.php?id=wfxwzh
-#EXTINF:-1 ,潍坊生活
-http://117.72.68.25:9930/qilu.php?id=wfsh
-#EXTINF:-1 ,潍坊影视综艺
-http://117.72.68.25:9930/qilu.php?id=wfyswy
-#EXTINF:-1 ,潍坊科教文旅
-http://117.72.68.25:9930/qilu.php?id=wfkjwl
-#EXTINF:-1 ,潍坊高新区
-http://117.72.68.25:9930/qilu.php?id=wfgxq
-#EXTINF:-1 ,安丘综合
-http://117.72.68.25:9930/qilu.php?id=wfaqzh
-#EXTINF:-1 ,安丘民生
-http://117.72.68.25:9930/qilu.php?id=wfaqms
-#EXTINF:-1 ,滨海新闻综合
-http://117.72.68.25:9930/qilu.php?id=wfbhxw
-#EXTINF:-1 ,昌乐综合
-http://117.72.68.25:9930/qilu.php?id=wfclzh
-#EXTINF:-1 ,昌邑综合
-http://117.72.68.25:9930/qilu.php?id=wfcyzh
-#EXTINF:-1 ,昌邑经济生活
-http://117.72.68.25:9930/qilu.php?id=wfcyjj
-#EXTINF:-1 ,坊子新闻综合
-http://117.72.68.25:9930/qilu.php?id=wffzxw
-#EXTINF:-1 ,高密综合
-http://117.72.68.25:9930/qilu.php?id=wfgmzh
-#EXTINF:-1 ,高密党建农科
-http://117.72.68.25:9930/qilu.php?id=wfgmdj
-#EXTINF:-1 ,潍坊高新区电视
-http://117.72.68.25:9930/qilu.php?id=wfgxq
-#EXTINF:-1 ,寒亭新闻
-http://117.72.68.25:9930/qilu.php?id=wfhtxw
-#EXTINF:-1 ,奎文电视台
-http://117.72.68.25:9930/qilu.php?id=wfkwtv
-#EXTINF:-1 ,临朐新闻综合
-http://117.72.68.25:9930/qilu.php?id=wflqxw
-#EXTINF:-1 ,青州综合
-http://117.72.68.25:9930/qilu.php?id=wfqzzh
-#EXTINF:-1 ,青州文化旅游
-http://117.72.68.25:9930/qilu.php?id=wfqzwh
-#EXTINF:-1 ,潍城TV
-http://117.72.68.25:9930/qilu.php?id=wfwc
-#EXTINF:-1 ,诸城新闻综合
-http://117.72.68.25:9930/qilu.php?id=wfzcxw
-#EXTINF:-1 ,诸城生活娱乐
-http://117.72.68.25:9930/qilu.php?id=wfzcsh
-#EXTINF:-1 ,长岛TV
-http://117.72.68.25:9930/qilu.php?id=ytcd
-#EXTINF:-1 ,福山综合
-http://117.72.68.25:9930/qilu.php?id=ytfszh
-#EXTINF:-1 ,山生活(无信号)
-http://117.72.68.25:9930/qilu.php?id=ytfssh
-#EXTINF:-1 ,海阳综合
-http://117.72.68.25:9930/qilu.php?id=ythyzh
-#EXTINF:-1 ,龙口综合
-http://117.72.68.25:9930/qilu.php?id=ytlkzh
-#EXTINF:-1 ,龙口生活
-http://117.72.68.25:9930/qilu.php?id=ytlksh
-#EXTINF:-1 ,莱山综合
-http://117.72.68.25:9930/qilu.php?id=ytlszh
-#EXTINF:-1 ,莱山影视
-http://117.72.68.25:9930/qilu.php?id=ytlsys
-#EXTINF:-1 ,莱阳综合
-http://117.72.68.25:9930/qilu.php?id=ytlyzh
-#EXTINF:-1 ,莱阳民生综艺
-http://117.72.68.25:9930/qilu.php?id=ytlyms
-#EXTINF:-1 ,莱州综合
-http://117.72.68.25:9930/qilu.php?id=ytlzzh
-#EXTINF:-1 ,牟平综合
-http://117.72.68.25:9930/qilu.php?id=ytmpzh
-#EXTINF:-1 ,蓬莱综合
-http://117.72.68.25:9930/qilu.php?id=ytplzh
-#EXTINF:-1 ,蓬莱综艺
-http://117.72.68.25:9930/qilu.php?id=ytplzy
-#EXTINF:-1 ,栖霞综合
-http://117.72.68.25:9930/qilu.php?id=ytqxzh
-#EXTINF:-1 ,栖霞苹果
-http://117.72.68.25:9930/qilu.php?id=ytqxpg
-#EXTINF:-1 ,招远综合
-http://117.72.68.25:9930/qilu.php?id=ytzyzh
-#EXTINF:-1 ,招远综艺
-http://117.72.68.25:9930/qilu.php?id=ytzyzy
-#EXTINF:-1 ,博山新闻
-http://117.72.68.25:9930/qilu.php?id=zbbsxw
-#EXTINF:-1 ,博山图文
-http://117.72.68.25:9930/qilu.php?id=zbbstw
-#EXTINF:-1 ,高青综合
-http://117.72.68.25:9930/qilu.php?id=zbgqzh
-#EXTINF:-1 ,高青影视
-http://117.72.68.25:9930/qilu.php?id=zbgqys
-#EXTINF:-1 ,桓台综合
-http://117.72.68.25:9930/qilu.php?id=zbht1
-#EXTINF:-1 ,桓台影视
-http://117.72.68.25:9930/qilu.php?id=zbht2
-#EXTINF:-1 ,临淄新闻综合
-http://117.72.68.25:9930/qilu.php?id=zblzxw
-#EXTINF:-1 ,临淄生活服务
-http://117.72.68.25:9930/qilu.php?id=zblzsh
-#EXTINF:-1 ,沂源综合
-http://117.72.68.25:9930/qilu.php?id=zbyyzh
-#EXTINF:-1 ,沂源生活
-http://117.72.68.25:9930/qilu.php?id=zbyysh
-#EXTINF:-1 ,淄川新闻
-http://117.72.68.25:9930/qilu.php?id=zbzcxw
-#EXTINF:-1 ,淄川生活
-http://117.72.68.25:9930/qilu.php?id=zbzcsh
-#EXTINF:-1 ,张店综合
-http://117.72.68.25:9930/qilu.php?id=zbzd1
-#EXTINF:-1 ,张店2
-http://117.72.68.25:9930/qilu.php?id=zbzd2
-#EXTINF:-1 ,周村新闻
-http://117.72.68.25:9930/qilu.php?id=zbzctv1
-#EXTINF:-1 ,周村生活
-http://117.72.68.25:9930/qilu.php?id=zbzctv2
-#EXTINF:-1 ,山亭综合
-http://117.72.68.25:9930/qilu.php?id=zzstzh
-#EXTINF:-1 ,枣庄市中综合
-http://117.72.68.25:9930/qilu.php?id=zzszzh
-#EXTINF:-1 ,台儿庄新闻综合
-http://117.72.68.25:9930/qilu.php?id=zztezxw
-#EXTINF:-1 ,滕州综合
-http://117.72.68.25:9930/qilu.php?id=zztzzh
-#EXTINF:-1 ,滕州民生
-http://117.72.68.25:9930/qilu.php?id=zztzms
-#EXTINF:-1 ,薛城新闻综合
-http://117.72.68.25:9930/qilu.php?id=zzxcxw
-#EXTINF:-1 ,峄城综合
-http://117.72.68.25:9930/qilu.php?id=zzyczh
-#EXTINF:-1 ,滨城TV
-http://117.72.68.25:9930/qilu.php?id=bzbctv
-#EXTINF:-1 ,博兴综合
-http://117.72.68.25:9930/qilu.php?id=bzbxzh
-#EXTINF:-1 ,博兴生活
-http://117.72.68.25:9930/qilu.php?id=bzbxsh
-#EXTINF:-1 ,惠民综合
-http://117.72.68.25:9930/qilu.php?id=bzhmzh
-#EXTINF:-1 ,惠民影视
-http://117.72.68.25:9930/qilu.php?id=bzhmys
-#EXTINF:-1 ,无棣综合
-http://117.72.68.25:9930/qilu.php?id=bzwdzh
-#EXTINF:-1 ,无棣综艺
-http://117.72.68.25:9930/qilu.php?id=bzwdzy
-#EXTINF:-1 ,阳信新闻综合
-http://117.72.68.25:9930/qilu.php?id=bzyxxw
-#EXTINF:-1 ,沾化综合
-http://117.72.68.25:9930/qilu.php?id=bzzhzh
-#EXTINF:-1 ,沾化综艺
-http://117.72.68.25:9930/qilu.php?id=bzzhzy
-#EXTINF:-1 ,邹平综合
-http://117.72.68.25:9930/qilu.php?id=bzzpzh
-#EXTINF:-1 ,邹平民生
-http://117.72.68.25:9930/qilu.php?id=bzzpms
-#EXTINF:-1 ,德州新闻综合
-http://117.72.68.25:9930/qilu.php?id=dzxwzh
-#EXTINF:-1 ,德州经济生活
-http://117.72.68.25:9930/qilu.php?id=dzjjsh
-#EXTINF:-1 ,德州图文
-http://117.72.68.25:9930/qilu.php?id=dztw
-#EXTINF:-1 ,陵城综合
-http://117.72.68.25:9930/qilu.php?id=dzlczh
-#EXTINF:-1 ,乐陵新闻综合
-http://117.72.68.25:9930/qilu.php?id=dzllxw
-#EXTINF:-1 ,乐陵城市生活
-http://117.72.68.25:9930/qilu.php?id=dzllcs
-#EXTINF:-1 ,临邑1
-http://117.72.68.25:9930/qilu.php?id=dzly1
-#EXTINF:-1 ,临邑2
-http://117.72.68.25:9930/qilu.php?id=dzly2
-#EXTINF:-1 ,宁津综合
-http://117.72.68.25:9930/qilu.php?id=dznjzh
-#EXTINF:-1 ,平原综合
-http://117.72.68.25:9930/qilu.php?id=dzpyzh
-#EXTINF:-1 ,齐河综合
-http://117.72.68.25:9930/qilu.php?id=dzqhzh
-#EXTINF:-1 ,庆云综合
-http://117.72.68.25:9930/qilu.php?id=dzqyzh
-#EXTINF:-1 ,庆云生活
-http://117.72.68.25:9930/qilu.php?id=dzqysh
-#EXTINF:-1 ,武城综合
-http://117.72.68.25:9930/qilu.php?id=dzwczh
-#EXTINF:-1 ,武城综艺影视
-http://117.72.68.25:9930/qilu.php?id=dzwczy
-#EXTINF:-1 ,夏津综合
-http://117.72.68.25:9930/qilu.php?id=dzxjzh
-#EXTINF:-1 ,夏津公共
-http://117.72.68.25:9930/qilu.php?id=dzxjgg
-#EXTINF:-1 ,禹城综合
-http://117.72.68.25:9930/qilu.php?id=dzyczh
-#EXTINF:-1 ,禹城综艺
-http://117.72.68.25:9930/qilu.php?id=dzyczy
-#EXTINF:-1 ,成武综合
-http://117.72.68.25:9930/qilu.php?id=hzcwzh
-#EXTINF:-1 ,成武综艺
-http://117.72.68.25:9930/qilu.php?id=hzcwzy
-#EXTINF:-1 ,曹县综合
-http://117.72.68.25:9930/qilu.php?id=hzcxzh
-#EXTINF:-1 ,东明新闻综合
-http://117.72.68.25:9930/qilu.php?id=hzdmxw
-#EXTINF:-1 ,定陶新闻
-http://117.72.68.25:9930/qilu.php?id=hzdt1
-#EXTINF:-1 ,定陶综艺
-http://117.72.68.25:9930/qilu.php?id=hzdt2
-#EXTINF:-1 ,鄄城综合
-http://117.72.68.25:9930/qilu.php?id=hzjczh
-#EXTINF:-1 ,巨野新闻
-http://117.72.68.25:9930/qilu.php?id=hzjyxw
-#EXTINF:-1 ,牡丹区新闻综合
-http://117.72.68.25:9930/qilu.php?id=hzmdxw
-#EXTINF:-1 ,牡丹区综艺
-http://117.72.68.25:9930/qilu.php?id=hzmdzy
-#EXTINF:-1 ,单县综合
-http://117.72.68.25:9930/qilu.php?id=hzsxzh
-#EXTINF:-1 ,郓城新闻
-http://117.72.68.25:9930/qilu.php?id=hzycxw
-#EXTINF:-1 ,郓城综艺
-http://117.72.68.25:9930/qilu.php?id=hzyczy
-#EXTINF:-1 ,嘉祥综合
-http://117.72.68.25:9930/qilu.php?id=jijiazh
-#EXTINF:-1 ,嘉祥生活
-http://117.72.68.25:9930/qilu.php?id=jijiash
-#EXTINF:-1 ,金乡综合
-http://117.72.68.25:9930/qilu.php?id=jijxzh
-#EXTINF:-1 ,金乡生活
-http://117.72.68.25:9930/qilu.php?id=jijxsh
-#EXTINF:-1 ,梁山综合
-http://117.72.68.25:9930/qilu.php?id=jilszh
-#EXTINF:-1 ,曲阜新闻综合
-http://117.72.68.25:9930/qilu.php?id=jiqfxw
-#EXTINF:-1 ,任城新闻综合
-http://117.72.68.25:9930/qilu.php?id=jircxw
-#EXTINF:-1 ,任城影视娱乐
-http://117.72.68.25:9930/qilu.php?id=jircys
-#EXTINF:-1 ,泗水新闻综合
-http://117.72.68.25:9930/qilu.php?id=jissxw
-#EXTINF:-1 ,泗水文化生活
-http://117.72.68.25:9930/qilu.php?id=jisswh
-#EXTINF:-1 ,微山综合
-http://117.72.68.25:9930/qilu.php?id=jiws1
-#EXTINF:-1 ,微山2套
-http://117.72.68.25:9930/qilu.php?id=jiws2
-#EXTINF:-1 ,汶上综合
-http://117.72.68.25:9930/qilu.php?id=jiwszh
-#EXTINF:-1 ,汶上生活
-http://117.72.68.25:9930/qilu.php?id=jiwssh
-#EXTINF:-1 ,鱼台新闻
-http://117.72.68.25:9930/qilu.php?id=jiytxw
-#EXTINF:-1 ,鱼台生活
-http://117.72.68.25:9930/qilu.php?id=jiytsh
-#EXTINF:-1 ,茌平综合
-http://117.72.68.25:9930/qilu.php?id=lccpzh
-#EXTINF:-1 ,茌平生活
-http://117.72.68.25:9930/qilu.php?id=lccpsh
-#EXTINF:-1 ,东昌综合
-http://117.72.68.25:9930/qilu.php?id=lcdczh
-#EXTINF:-1 ,东阿综合
-http://117.72.68.25:9930/qilu.php?id=lcdezh
-#EXTINF:-1 ,东阿综艺
-http://117.72.68.25:9930/qilu.php?id=lcdezy
-#EXTINF:-1 ,高唐综合
-http://117.72.68.25:9930/qilu.php?id=lcgtzh
-#EXTINF:-1 ,高唐综艺
-http://117.72.68.25:9930/qilu.php?id=lcgtzy
-#EXTINF:-1 ,冠县综合
-http://117.72.68.25:9930/qilu.php?id=lcgxzh
-#EXTINF:-1 ,临清综合
-http://117.72.68.25:9930/qilu.php?id=lclqzh
-#EXTINF:-1 ,临清经济信息
-http://117.72.68.25:9930/qilu.php?id=lclqjj
-#EXTINF:-1 ,莘县综合
-http://117.72.68.25:9930/qilu.php?id=lcsxzh
-#EXTINF:-1 ,莘县生活
-http://117.72.68.25:9930/qilu.php?id=lcsxsh
-#EXTINF:-1 ,阳谷综合
-http://117.72.68.25:9930/qilu.php?id=lcygzh
-#EXTINF:-1 ,阳谷影视
-http://117.72.68.25:9930/qilu.php?id=lcygys
-#EXTINF:-1 ,费县综合
-http://117.72.68.25:9930/qilu.php?id=lyfxzh
-#EXTINF:-1 ,费县生活
-http://117.72.68.25:9930/qilu.php?id=lyfxsh
-#EXTINF:-1 ,河东影视
-http://117.72.68.25:9930/qilu.php?id=lyhdys
-#EXTINF:-1 ,河东综合
-http://117.72.68.25:9930/qilu.php?id=lyhdzh
-#EXTINF:-1 ,莒南综合
-http://117.72.68.25:9930/qilu.php?id=lyjnzh
-#EXTINF:-1 ,莒南影视
-http://117.72.68.25:9930/qilu.php?id=lyjnys
-#EXTINF:-1 ,兰山综合
-http://117.72.68.25:9930/qilu.php?id=lylszh
-#EXTINF:-1 ,临沭综合
-http://117.72.68.25:9930/qilu.php?id=lyls1
-#EXTINF:-1 ,临沭生活
-http://117.72.68.25:9930/qilu.php?id=lyls2
-#EXTINF:-1 ,罗庄综合
-http://117.72.68.25:9930/qilu.php?id=lylzzh
-#EXTINF:-1 ,罗庄影视
-http://117.72.68.25:9930/qilu.php?id=lylzys
-#EXTINF:-1 ,蒙阴综合
-http://117.72.68.25:9930/qilu.php?id=lymy1
-#EXTINF:-1 ,蒙阴2套
-http://117.72.68.25:9930/qilu.php?id=lymy2
-#EXTINF:-1 ,平邑综合
-http://117.72.68.25:9930/qilu.php?id=lypyzh
-#EXTINF:-1 ,平邑生活
-http://117.72.68.25:9930/qilu.php?id=lypysh
-#EXTINF:-1 ,郯城综合
-http://117.72.68.25:9930/qilu.php?id=lytc1
-#EXTINF:-1 ,郯城2套
-http://117.72.68.25:9930/qilu.php?id=lytc2
-#EXTINF:-1 ,沂南综合
-http://117.72.68.25:9930/qilu.php?id=lyynzh
-#EXTINF:-1 ,沂南红色影视
-http://117.72.68.25:9930/qilu.php?id=lyynys
-#EXTINF:-1 ,沂水综合
-http://117.72.68.25:9930/qilu.php?id=lyys1
-#EXTINF:-1 ,沂水生活
-http://117.72.68.25:9930/qilu.php?id=lyys2
-#EXTINF:-1 ,莒县综合
-http://117.72.68.25:9930/qilu.php?id=rzjx1
-#EXTINF:-1 ,岚山TV
-http://117.72.68.25:9930/qilu.php?id=rzls
-#EXTINF:-1 ,五莲综合
-http://117.72.68.25:9930/qilu.php?id=rzwlzh
-#EXTINF:-1 ,五莲文化旅游
-http://117.72.68.25:9930/qilu.php?id=rzwlwh
-#EXTINF:-1 ,东平综合
-http://117.72.68.25:9930/qilu.php?id=tadpzh
-#EXTINF:-1 ,东平民生
-http://117.72.68.25:9930/qilu.php?id=tadpms
-#EXTINF:-1 ,岱岳TV
-http://117.72.68.25:9930/qilu.php?id=tady
-#EXTINF:-1 ,肥城综合
-http://117.72.68.25:9930/qilu.php?id=tafczh
-#EXTINF:-1 ,肥城生活
-http://117.72.68.25:9930/qilu.php?id=tafcsh
-#EXTINF:-1 ,宁阳综合
-http://117.72.68.25:9930/qilu.php?id=tany1
-#EXTINF:-1 ,宁阳2套
-http://117.72.68.25:9930/qilu.php?id=tany2
-#EXTINF:-1 ,泰山TV
-http://117.72.68.25:9930/qilu.php?id=tats
-#EXTINF:-1 ,新泰综合
-http://117.72.68.25:9930/qilu.php?id=taxtzh
-#EXTINF:-1 ,新泰乡村
-http://117.72.68.25:9930/qilu.php?id=taxtxc
-#EXTINF:-1 ,威海新闻综合
-http://117.72.68.25:9930/qilu.php?id=whxwzh
-#EXTINF:-1 ,威海都市生活
-http://117.72.68.25:9930/qilu.php?id=whdssh
-#EXTINF:-1 ,威海海洋
-http://117.72.68.25:9930/qilu.php?id=whhy
-#EXTINF:-1 ,威海环翠综合
-http://117.72.68.25:9930/qilu.php?id=whhczh
-#EXTINF:-1 ,荣成综合
-http://117.72.68.25:9930/qilu.php?id=whrczh
-#EXTINF:-1 ,荣成生活
-http://117.72.68.25:9930/qilu.php?id=whrcsh
-#EXTINF:-1 ,乳山综合
-http://117.72.68.25:9930/qilu.php?id=whrszh
-#EXTINF:-1 ,乳山生活
-http://117.72.68.25:9930/qilu.php?id=whrssh
-#EXTINF:-1 ,文登TV1
-http://117.72.68.25:9930/qilu.php?id=whwd1
-#EXTINF:-1 ,文登TV2
-http://117.72.68.25:9930/qilu.php?id=whwd2
-#EXTINF:-1 ,IPTV淘电影
-http://218.241.192.50:8808/udp/239.3.1.250:8001
-#EXTINF:-1 ,IPTV淘BABY
-http://218.241.192.50:8808/udp/239.3.1.238:8001
-#EXTINF:-1 ,IPTV萌宠TV
-http://218.241.192.50:8808/udp/239.3.1.102:8001
-#EXTINF:-1 ,IPTV淘精彩HD
-http://218.241.192.50:8808/udp/239.3.1.178:8001
-#EXTINF:-1 ,IPTV淘剧场HD
-http://218.241.192.50:8808/udp/239.3.1.95:8001
-#EXTINF:-1 ,IPTV淘娱乐HD
-http://218.241.192.50:8808/udp/239.3.1.100:8001
-#EXTINF:-1 ,====== 黑龙江移动,#genre# ======
-http://2/2.m3u8
-#EXTINF:-1 ,CCTV-1 综合
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
-#EXTINF:-1 ,CCTV-2 财经
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
-#EXTINF:-1 ,CCTV-3 综艺
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
-#EXTINF:-1 ,CCTV-4 中文国际
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
-#EXTINF:-1 ,CCTV-5 体育
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-#EXTINF:-1 ,CCTV-5+ 体育赛事
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-#EXTINF:-1 ,CCTV-6 电影
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
-#EXTINF:-1 ,CCTV-7 国防军事
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
-#EXTINF:-1 ,CCTV-8 电视剧
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
-#EXTINF:-1 ,CCTV-9 纪录
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
-#EXTINF:-1 ,CCTV-10 科教
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
-#EXTINF:-1 ,CCTV-11 戏曲
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
-#EXTINF:-1 ,CCTV-12 社会与法
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
-#EXTINF:-1 ,CCTV-13 新闻
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
-#EXTINF:-1 ,CCTV-14 少儿
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
-#EXTINF:-1 ,CCTV-15 音乐
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
-#EXTINF:-1 ,CCTV-16 奥林匹克
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-#EXTINF:-1 ,CCTV-17 农业农村
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-#EXTINF:-1 ,CETV-1
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
-#EXTINF:-1 ,CETV-2
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
-#EXTINF:-1 ,CETV-4
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
-#EXTINF:-1 ,北京卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
-#EXTINF:-1 ,东方卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
-#EXTINF:-1 ,浙江卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
-#EXTINF:-1 ,江苏卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
-#EXTINF:-1 ,湖南卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
-#EXTINF:-1 ,深圳卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
-#EXTINF:-1 ,天津卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
-#EXTINF:-1 ,广东卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
-#EXTINF:-1 ,黑龙江卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
-#EXTINF:-1 ,安徽卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
-#EXTINF:-1 ,辽宁卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225619/index.m3u8
-#EXTINF:-1 ,四川卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
-#EXTINF:-1 ,重庆卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
-#EXTINF:-1 ,贵州卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
-#EXTINF:-1 ,江西卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
-#EXTINF:-1 ,东南卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
-#EXTINF:-1 ,湖北卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
-#EXTINF:-1 ,河南卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
-#EXTINF:-1 ,山东卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
-#EXTINF:-1 ,海南卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
-#EXTINF:-1 ,吉林卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
-#EXTINF:-1 ,陕西卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8
-#EXTINF:-1 ,内蒙古卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8
-#EXTINF:-1 ,西藏卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
-#EXTINF:-1 ,河北卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
-#EXTINF:-1 ,青海卫视
-http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=1da074361609506578
-#EXTINF:-1 ,宁夏卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
-#EXTINF:-1 ,云南卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
-#EXTINF:-1 ,山西卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8
-#EXTINF:-1 ,甘肃卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
-#EXTINF:-1 ,新疆卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
-#EXTINF:-1 ,兵团卫视
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226214/index.m3u8
-#EXTINF:-1 ,重庆卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225618/index.m3u8
-#EXTINF:-1 ,贵州卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225626/index.m3u8
-#EXTINF:-1 ,青海卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
-#EXTINF:-1 ,海南卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225639/index.m3u8
-#EXTINF:-1 ,北京卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226251/index.m3u8
-#EXTINF:-1 ,辽宁卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226254/index.m3u8
-#EXTINF:-1 ,河南卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226320/index.m3u8
-#EXTINF:-1 ,青海卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226323/index.m3u8
-#EXTINF:-1 ,东方卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226336/index.m3u8
-#EXTINF:-1 ,浙江卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226342/index.m3u8
-#EXTINF:-1 ,广东卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226374/index.m3u8
-#EXTINF:-1 ,东南卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226377/index.m3u8
-#EXTINF:-1 ,广西卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8
-#EXTINF:-1 ,贵州卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226383/index.m3u8
-#EXTINF:-1 ,吉林卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226386/index.m3u8
-#EXTINF:-1 ,内蒙古卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226389/index.m3u8
-#EXTINF:-1 ,安多卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
-#EXTINF:-1 ,康巴卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
-#EXTINF:-1 ,山西卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226392/index.m3u8
-#EXTINF:-1 ,天津卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226395/index.m3u8
-#EXTINF:-1 ,黑龙江卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226421/index.m3u8
-#EXTINF:-1 ,湖南卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226430/index.m3u8
-#EXTINF:-1 ,西藏卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226433/index.m3u8
-#EXTINF:-1 ,兵团卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
-#EXTINF:-1 ,海南卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226445/index.m3u8
-#EXTINF:-1 ,河北卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226448/index.m3u8
-#EXTINF:-1 ,宁夏卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226454/index.m3u8
-#EXTINF:-1 ,陕西卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226457/index.m3u8
-#EXTINF:-1 ,新疆卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226460/index.m3u8
-#EXTINF:-1 ,重庆卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8
-#EXTINF:-1 ,江苏卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226495/index.m3u8
-#EXTINF:-1 ,安徽卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226498/index.m3u8
-#EXTINF:-1 ,湖北卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226501/index.m3u8
-#EXTINF:-1 ,江西卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226504/index.m3u8
-#EXTINF:-1 ,山东卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226507/index.m3u8
-#EXTINF:-1 ,深圳卫视-SD
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226510/index.m3u8
-#EXTINF:-1 ,四川卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226513/index.m3u8
-#EXTINF:-1 ,延边
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
-#EXTINF:-1 ,甘肃卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226522/index.m3u8
-#EXTINF:-1 ,教育频道
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226523/index.m3u8
-#EXTINF:-1 ,黑龙江卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226525/index.m3u8
-#EXTINF:-1 ,黑龙江卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226531/index.m3u8
-#EXTINF:-1 ,山东教育卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
-#EXTINF:-1 ,北京纪实科教
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
-#EXTINF:-1 ,卡酷少儿
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
-#EXTINF:-1 ,优漫卡通
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
-#EXTINF:-1 ,哈哈炫动
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
-#EXTINF:-1 ,动作电影
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
-#EXTINF:-1 ,古装剧场
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
-#EXTINF:-1 ,惊悚悬疑
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
-#EXTINF:-1 ,金牌综艺
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
-#EXTINF:-1 ,爱情喜剧
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
-#EXTINF:-1 ,精品大剧
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
-#EXTINF:-1 ,精品纪录
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
-#EXTINF:-1 ,健康有约
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
-#EXTINF:-1 ,精品体育
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
-#EXTINF:-1 ,军旅剧场
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
-#EXTINF:-1 ,家庭剧场
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
-#EXTINF:-1 ,精彩搏击
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
-#EXTINF:-1 ,中国功夫
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
-#EXTINF:-1 ,农业致富
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
-#EXTINF:-1 ,潮妈辣婆
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
-#EXTINF:-1 ,超级综艺
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
-#EXTINF:-1 ,超级体育
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
-#EXTINF:-1 ,超级电视剧
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
-#EXTINF:-1 ,超级电影
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-#EXTINF:-1 ,炫舞未来
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
-#EXTINF:-1 ,东北热剧
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
-#EXTINF:-1 ,欢乐剧场
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-#EXTINF:-1 ,黑龙江影视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226365/index.m3u8
-#EXTINF:-1 ,黑龙江新闻法治
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226368/index.m3u8
-#EXTINF:-1 ,黑龙江文体
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226424/index.m3u8
-#EXTINF:-1 ,黑龙江都市
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226427/index.m3u8
-#EXTINF:-1 ,黑龙江农业科教
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226492/index.m3u8
-#EXTINF:-1 ,黑龙江少儿
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226371/index.m3u8
-#EXTINF:-1 ,黑龙江影视 8M1080
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
-#EXTINF:-1 ,黑龙江新闻法治 8M1080
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8
-#EXTINF:-1 ,黑龙江文体 8M1080
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
-#EXTINF:-1 ,黑龙江都市 8M1080
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
-#EXTINF:-1 ,黑龙江农业科教 8M1080
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
-#EXTINF:-1 ,黑龙江少儿 8M1080
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
-#EXTINF:-1 ,哈尔滨影视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8
-#EXTINF:-1 ,哈尔滨综合
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226558/index.m3u8
-#EXTINF:-1 ,哈尔滨生活
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8
-#EXTINF:-1 ,哈尔滨综合
-http://stream.hrbtv.net/xwzh/sd/live.m3u8?zheild
-#EXTINF:-1 ,哈尔滨影视
-http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild
-#EXTINF:-1 ,哈尔滨生活
-http://stream.hrbtv.net/shpd/sd/live.m3u8?zheild
-#EXTINF:-1 ,哈尔滨生活
-http://streamings.hrbtv.net/09e35fcca53542bfa24a6b34e0fc2ff8/h264_400k_ts/index.m3u8?type=hls_live_redirect
-#EXTINF:-1 ,佳木斯新闻综合 2.5M1080
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226451/index.m3u8
-#EXTINF:-1 ,牡丹江新闻综合
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226422/index.m3u8
-#EXTINF:-1 ,鹤岗新闻综合 8M1080
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226534/index.m3u8
-#EXTINF:-1 ,漠河综合频道
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226535/index.m3u8
-#EXTINF:-1 ,====== 龙江移动6,#genre# ======
-http://3/3.m3u8
-#EXTINF:-1 ,睛彩竞技
-http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
-#EXTINF:-1 ,睛彩篮球
-http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
-#EXTINF:-1 ,CCTV1
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
-#EXTINF:-1 ,CCTV1
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8
-#EXTINF:-1 ,CCTV2
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
-#EXTINF:-1 ,CCTV3
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
-#EXTINF:-1 ,CCTV4
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
-#EXTINF:-1 ,CCTV4
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226007/index.m3u8
-#EXTINF:-1 ,CCTV5
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-#EXTINF:-1 ,CCTV5+
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-#EXTINF:-1 ,CCTV6
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
-#EXTINF:-1 ,CCTV7
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
-#EXTINF:-1 ,CCTV8
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
-#EXTINF:-1 ,CCTV9
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
-#EXTINF:-1 ,CCTV10
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
-#EXTINF:-1 ,CCTV12
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
-#EXTINF:-1 ,CCTV13
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
-#EXTINF:-1 ,CCTV14
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
-#EXTINF:-1 ,CCTV16
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-#EXTINF:-1 ,CCTV17
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-#EXTINF:-1 ,山东卫视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
-#EXTINF:-1 ,辽宁卫视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
-#EXTINF:-1 ,湖南卫视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
-#EXTINF:-1 ,湖南卫视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
-#EXTINF:-1 ,北京卫视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
-#EXTINF:-1 ,北京卫视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
-#EXTINF:-1 ,东方卫视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
-#EXTINF:-1 ,东方卫视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
-#EXTINF:-1 ,天津卫视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8
-#EXTINF:-1 ,天津卫视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
-#EXTINF:-1 ,深圳卫视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
-#EXTINF:-1 ,深圳卫视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
-#EXTINF:-1 ,广东卫视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
-#EXTINF:-1 ,江苏卫视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
-#EXTINF:-1 ,江苏卫视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
-#EXTINF:-1 ,浙江卫视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
-#EXTINF:-1 ,浙江卫视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
-#EXTINF:-1 ,湖北卫视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8
-#EXTINF:-1 ,湖北卫视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
-#EXTINF:-1 ,东南卫视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
-#EXTINF:-1 ,四川卫视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
-#EXTINF:-1 ,重庆卫视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
-#EXTINF:-1 ,河南卫视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
-#EXTINF:-1 ,河北卫视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
-#EXTINF:-1 ,海南卫视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
-#EXTINF:-1 ,贵州卫视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
-#EXTINF:-1 ,广西卫视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8
-#EXTINF:-1 ,安徽卫视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
-#EXTINF:-1 ,吉林卫视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
-#EXTINF:-1 ,黑龙江卫视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
-#EXTINF:-1 ,黑龙江影视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
-#EXTINF:-1 ,黑龙江都市
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
-#EXTINF:-1 ,黑龙江文体
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
-#EXTINF:-1 ,黑龙江农业
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
-#EXTINF:-1 ,黑龙江少儿
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
-#EXTINF:-1 ,黑龙江新闻法治
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8
-#EXTINF:-1 ,齐齐哈尔滨
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226437/index.m3u8
-#EXTINF:-1 ,齐齐哈尔2
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226555/index.m3u8
-#EXTINF:-1 ,佳木斯
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226451/index.m3u8
-#EXTINF:-1 ,哈尔滨新闻综合
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226434/index.m3u8
-#EXTINF:-1 ,大庆新闻综合
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226484/index.m3u8
-#EXTINF:-1 ,大庆公共
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226525/index.m3u8
-#EXTINF:-1 ,北京科教
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
-#EXTINF:-1 ,上海纪实
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
-#EXTINF:-1 ,动作电影
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
-#EXTINF:-1 ,黑莓电影
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
-#EXTINF:-1 ,黑莓动画
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
-#EXTINF:-1 ,古装剧场
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
-#EXTINF:-1 ,惊悚悬疑
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
-#EXTINF:-1 ,金牌综艺
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
-#EXTINF:-1 ,爱情喜剧
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
-#EXTINF:-1 ,军事评论
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
-#EXTINF:-1 ,精品纪录
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
-#EXTINF:-1 ,达波赛事
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
-#EXTINF:-1 ,军旅剧场
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
-#EXTINF:-1 ,家庭剧场
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
-#EXTINF:-1 ,中国功夫
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
-#EXTINF:-1 ,武搏世界
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
-#EXTINF:-1 ,潮妈辣婆
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
-#EXTINF:-1 ,超级体育
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
-#EXTINF:-1 ,超级综艺
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
-#EXTINF:-1 ,超级电视剧
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
-#EXTINF:-1 ,超级电影
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-#EXTINF:-1 ,炫舞未来
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
-#EXTINF:-1 ,东北热剧
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
-#EXTINF:-1 ,欢笑剧场
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-#EXTINF:-1 ,精品体育
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
-#EXTINF:-1 ,健康
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
-#EXTINF:-1 ,明星大片
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
-#EXTINF:-1 ,剧场
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
-#EXTINF:-1 ,山东教育
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
-#EXTINF:-1 ,卡酷卫视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
-#EXTINF:-1 ,金鹰卡通
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
-#EXTINF:-1 ,优漫卡通
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
-#EXTINF:-1 ,哈哈炫动
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
-#EXTINF:-1 ,咪咕视频
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
-#EXTINF:-1 ,咪咕视频2
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
-#EXTINF:-1 ,咪咕视频3
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
-#EXTINF:-1 ,咪咕视频4
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
-#EXTINF:-1 ,咪咕视频5
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
-#EXTINF:-1 ,====== 组播测试,#genre# ======
-http://4/4.m3u8
-#EXTINF:-1 ,CCTV1 高清
-http://nas.cafeng.top:9080/rtp/239.93.0.184:5140
-#EXTINF:-1 ,CCTV2 高清
-http://nas.cafeng.top:9080/rtp/239.93.1.23:6000
-#EXTINF:-1 ,CCTV3 高清
-http://nas.cafeng.top:9080/rtp/239.93.1.11:2223
-#EXTINF:-1 ,CCTV4 高清
-http://nas.cafeng.top:9080/rtp/239.93.1.105:5140
-#EXTINF:-1 ,CCTV5 高清
-http://nas.cafeng.top:9080/rtp/239.93.42.37:5140
-#EXTINF:-1 ,CCTV6 高清
-http://nas.cafeng.top:9080/rtp/239.93.1.13:2226
-#EXTINF:-1 ,CCTV7 高清
-http://nas.cafeng.top:9080/rtp/239.93.1.67:5140
-#EXTINF:-1 ,CCTV8 高清
-http://nas.cafeng.top:9080/rtp/239.93.42.39:5140
-#EXTINF:-1 ,CCTV9 高清
-http://nas.cafeng.top:9080/rtp/239.93.1.24:5140
-#EXTINF:-1 ,CCTV10 高清
-http://nas.cafeng.top:9080/rtp/239.93.1.28:5140
-#EXTINF:-1 ,CCTV11 高清
-http://nas.cafeng.top:9080/rtp/239.93.0.102:5140
-#EXTINF:-1 ,CCTV12 高清
-http://nas.cafeng.top:9080/rtp/239.93.1.30:8124
-#EXTINF:-1 ,CCTV13 高清
-http://nas.cafeng.top:9080/rtp/239.93.0.66:5140
-#EXTINF:-1 ,CCTV14 高清
-http://nas.cafeng.top:9080/rtp/239.93.1.29:6000
-#EXTINF:-1 ,CCTV15 高清
-http://nas.cafeng.top:9080/rtp/239.93.0.103:5140
-#EXTINF:-1 ,CCTV16 高清
-http://hiliu.myds.me:8088/rtp/239.69.1.247:11124
-#EXTINF:-1 ,CCTV16 超高清
-http://hiliu.myds.me:8088/rtp/239.69.1.249:11136
-#EXTINF:-1 ,CCTV17 高清
-http://nas.cafeng.top:9080/rtp/239.93.0.92:5140
-#EXTINF:-1 ,CCTV5+ 高清
-http://nas.cafeng.top:9080/rtp/239.93.1.36:8004
-#EXTINF:-1 ,CCTV4K 超高清
-http://nas.cafeng.top:9080/rtp/239.93.42.42:5140
-#EXTINF:-1 ,CCTV央视文化精品 高清
-http://nas.cafeng.top:9080/rtp/239.93.42.47:5140
-#EXTINF:-1 ,CCTV女性时尚 高清
-http://nas.cafeng.top:9080/rtp/239.93.42.62:5140
-#EXTINF:-1 ,CCTV兵器科技 高清
-http://nas.cafeng.top:9080/rtp/239.93.1.235:5140
-#EXTINF:-1 ,CCTV风云足球 高清
-http://nas.cafeng.top:9080/rtp/239.93.0.235:5140
-#EXTINF:-1 ,CCTV世界地理 高清
-http://nas.cafeng.top:9080/rtp/239.93.1.157:5140
-#EXTINF:-1 ,CCTV怀旧剧场 高清
-http://nas.cafeng.top:9080/rtp/239.93.1.198:5140
-#EXTINF:-1 ,CCTV风云剧场 高清
-http://nas.cafeng.top:9080/rtp/239.93.1.156:5140
-#EXTINF:-1 ,CCTV第一剧场 高清
-http://nas.cafeng.top:9080/rtp/239.93.1.197:5140
-#EXTINF:-1 ,CCTV风云音乐 高清
-http://nas.cafeng.top:9080/rtp/239.93.0.224:5140
-#EXTINF:-1 ,CCTV高尔夫网球 高清
-http://nas.cafeng.top:9080/rtp/239.93.1.54:5140
-#EXTINF:-1 ,CCTV台球 高清
-http://nas.cafeng.top:9080/rtp/239.93.0.218:5140
-#EXTINF:-1 ,CCTV美洲 高清
-http://hiliu.myds.me:8088/rtp/239.69.1.232:11034
-#EXTINF:-1 ,CCTV欧洲 高清
-http://hiliu.myds.me:8088/rtp/239.69.1.231:11028
-#EXTINF:-1 ,CGTN NEWS 高清
-http://nas.cafeng.top:9080/rtp/239.93.0.104:5140
-#EXTINF:-1 ,CGTN FRANCAIS 高清
-http://nas.cafeng.top:9080/rtp/239.93.42.50:5140
-#EXTINF:-1 ,CGTN ESPANOL 高清
-http://nas.cafeng.top:9080/rtp/239.93.42.49:5140
-#EXTINF:-1 ,湖南卫视 高清
-http://nas.cafeng.top:9080/rtp/239.93.0.88:5140
-#EXTINF:-1 ,金鹰纪实 高清
-http://nas.cafeng.top:9080/rtp/239.93.0.130:5140
-#EXTINF:-1 ,海南卫视 高清
-http://hiliu.myds.me:8088/rtp/239.69.1.151:10542
-#EXTINF:-1 ,浙江卫视 高清
-http://nas.cafeng.top:9080/rtp/239.93.0.124:5140
-#EXTINF:-1 ,江苏卫视 高清
-http://nas.cafeng.top:9080/rtp/239.93.0.89:5140
-#EXTINF:-1 ,北京卫视 高清
-http://nas.cafeng.top:9080/rtp/239.93.0.180:5140
-#EXTINF:-1 ,北京纪实 高清
-http://nas.cafeng.top:9080/rtp/239.93.0.152:5140
-#EXTINF:-1 ,东方卫视 高清
-http://nas.cafeng.top:9080/rtp/239.93.0.123:5140
-#EXTINF:-1 ,纪实人文 高清
-http://nas.cafeng.top:9080/rtp/239.93.1.137:5140
-#EXTINF:-1 ,生活时尚 高清
-http://nas.cafeng.top:9080/rtp/239.93.42.29:5140
-#EXTINF:-1 ,安徽卫视 高清
-http://nas.cafeng.top:9080/rtp/239.93.1.106:5140
-#EXTINF:-1 ,广东卫视 高清
-http://nas.cafeng.top:9080/rtp/239.93.0.181:5140
-#EXTINF:-1 ,深圳卫视 高清
-http://nas.cafeng.top:9080/rtp/239.93.0.182:5140
-#EXTINF:-1 ,辽宁卫视 高清
-http://nas.cafeng.top:9080/rtp/239.93.1.108:5140
-#EXTINF:-1 ,山东卫视 高清
-http://nas.cafeng.top:9080/rtp/239.93.0.168:5140
-#EXTINF:-1 ,甘肃卫视 高清
-http://nas.cafeng.top:9080/rtp/239.93.0.81:5140
-#EXTINF:-1 ,天津卫视 高清
-http://nas.cafeng.top:9080/rtp/239.93.0.167:5140
-#EXTINF:-1 ,河南卫视 高清
-http://nas.cafeng.top:9080/rtp/239.93.42.45:5140
-#EXTINF:-1 ,湖北卫视 高清
-http://nas.cafeng.top:9080/rtp/239.93.0.250:5140
-#EXTINF:-1 ,重庆卫视 高清
-http://nas.cafeng.top:9080/rtp/239.93.1.107:5140
-#EXTINF:-1 ,东南卫视 高清
-http://nas.cafeng.top:9080/rtp/239.93.0.42:5140
-#EXTINF:-1 ,广西卫视 高清
-http://nas.cafeng.top:9080/rtp/239.93.42.46:5140
-#EXTINF:-1 ,贵州卫视 高清
-http://nas.cafeng.top:9080/rtp/239.93.0.131:5140
-#EXTINF:-1 ,河北卫视 高清
-http://nas.cafeng.top:9080/rtp/239.93.0.132:5140
-#EXTINF:-1 ,四川卫视 高清
-http://nas.cafeng.top:9080/rtp/239.93.0.20:1235
-#EXTINF:-1 ,峨眉电影 高清
-http://nas.cafeng.top:9080/rtp/239.93.0.252:5140
-#EXTINF:-1 ,青海卫视 高清
-http://sunyuen.familyds.com:4000/rtp/239.253.43.125:5146
-#EXTINF:-1 ,黑龙江卫视 高清
-http://nas.cafeng.top:9080/rtp/239.93.0.183:5140
-#EXTINF:-1 ,江西卫视 高清
-http://nas.cafeng.top:9080/rtp/239.93.0.134:5140
-#EXTINF:-1 ,吉林卫视 高清
-http://nas.cafeng.top:9080/rtp/239.93.0.248:5140
-#EXTINF:-1 ,云南卫视 高清
-http://nas.cafeng.top:9080/rtp/239.93.1.174:5140
-#EXTINF:-1 ,内蒙古卫视 高清
-http://nas.cafeng.top:9080/rtp/239.93.0.143:5140
-#EXTINF:-1 ,新疆卫视 高清
-http://office.gofaraway.top:888/udp/238.125.7.145:5140
-#EXTINF:-1 ,三沙卫视 高清
-http://sunyuen.familyds.com:4000/rtp/239.253.43.113:5146
-#EXTINF:-1 ,CETV1 高清
-http://nas.cafeng.top:9080/rtp/239.93.1.111:5140
-#EXTINF:-1 ,凤凰卫视 高清
-http://nas.cafeng.top:9080/rtp/239.93.0.162:2192
-#EXTINF:-1 ,凤凰资讯 高清
-http://nas.cafeng.top:9080/rtp/239.93.0.118:2191
-#EXTINF:-1 ,新视觉 高清
-http://tiger81.i234.me:8888/rtp/239.109.205.195:9642
-#EXTINF:-1 ,五星体育 高清
-http://nas.cafeng.top:9080/rtp/239.93.42.97:5140
-#EXTINF:-1 ,劲爆体育 高清
-http://nas.cafeng.top:9080/rtp/239.93.42.98:5140
-#EXTINF:-1 ,全纪实 高清
-http://nas.cafeng.top:9080/rtp/239.93.42.94:5140
-#EXTINF:-1 ,求索纪录 高清
-http://nas.cafeng.top:9080/rtp/239.93.42.24:5140
-#EXTINF:-1 ,求索生活 高清
-http://sunyuen.familyds.com:4000/rtp/239.77.0.153:5146
-#EXTINF:-1 ,爱电竞 高清
-http://nas.cafeng.top:9080/rtp/239.93.42.19:5140
-#EXTINF:-1 ,电竞天堂 高清
-http://nas.cafeng.top:9080/rtp/239.93.1.135:5140
-#EXTINF:-1 ,CHC高清电影 高清
-http://nas.cafeng.top:9080/rtp/239.93.42.5:5140
-#EXTINF:-1 ,CHC动作电影 高清
-http://nas.cafeng.top:9080/rtp/239.93.42.7:5140
-#EXTINF:-1 ,CHC家庭电影 高清
-http://nas.cafeng.top:9080/rtp/239.93.42.6:5140
-#EXTINF:-1 ,华语影院 高清
-http://nas.cafeng.top:9080/rtp/239.93.42.86:5140
-#EXTINF:-1 ,星光院线 高清
-http://nas.cafeng.top:9080/rtp/239.93.42.87:5140
-#EXTINF:-1 ,全球大片 高清
-http://nas.cafeng.top:9080/rtp/239.93.42.90:5140
-#EXTINF:-1 ,爱上4K 超高清
-http://nas.cafeng.top:9080/rtp/239.93.0.97:5140
-#EXTINF:-1 ,绚影4K 超高清
-http://nas.cafeng.top:9080/rtp/239.93.42.33:5140
-#EXTINF:-1 ,乐享4K 超高清
-http://nas.cafeng.top:9080/rtp/239.93.0.43:5140
-#EXTINF:-1 ,爱科幻 高清
-http://nas.cafeng.top:9080/rtp/239.93.42.10:5140
-#EXTINF:-1 ,爱喜剧 高清
-http://nas.cafeng.top:9080/rtp/239.93.42.9:5140
-#EXTINF:-1 ,爱院线 高清
-http://nas.cafeng.top:9080/rtp/239.93.42.11:5140
-#EXTINF:-1 ,爱怀旧 高清
-http://nas.cafeng.top:9080/rtp/239.93.42.21:5140
-#EXTINF:-1 ,爱奇谈 高清
-http://nas.cafeng.top:9080/rtp/239.93.42.22:5140
-#EXTINF:-1 ,精彩影视 高清
-http://nas.cafeng.top:9080/rtp/239.93.42.92:5140
-#EXTINF:-1 ,====== 斗鱼,#genre# ======
-http://5/5.m3u8
-#EXTINF:-1 ,斗鱼电影
-http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337984fd3341cc9ec569502e4f&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0ac75fafd8679bb53af10de8c33ae99d9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
-#EXTINF:-1 ,斗鱼电影2
-http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=7d054e041804e80af8aa7e975e2d8573&token=cpn-androidmpro-0-85894-a3575d938a4aa309c687f5fb85a1009fc65cfbeeb2672310&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=pla
-#EXTINF:-1 ,====== 陕西电信专线,#genre# ======
-http://6/6.m3u8
-#EXTINF:-1 ,CCTV1高清
-http://host.gaoxincloud.cn:4000/udp/239.109.205.118:8880
-#EXTINF:-1 ,CCTV1高清
-http://host.gaoxincloud.cn:4000/udp/239.112.205.59:5140
-#EXTINF:-1 ,CCTV2高清
-http://host.gaoxincloud.cn:4000/udp/239.112.205.78:5140
-#EXTINF:-1 ,CCTV2高清
-http://host.gaoxincloud.cn:4000/udp/239.109.205.106:8784
-#EXTINF:-1 ,CCTV3高清
-http://host.gaoxincloud.cn:4000/udp/239.109.205.79:8568
-#EXTINF:-1 ,CCTV3高清
-http://host.gaoxincloud.cn:4000/udp/239.112.205.221:5140
-#EXTINF:-1 ,CCTV4高清
-http://host.gaoxincloud.cn:4000/udp/239.112.205.202:5140
-#EXTINF:-1 ,CCTV4高清
-http://host.gaoxincloud.cn:4000/udp/239.109.205.159:9108
-#EXTINF:-1 ,CCTV5高清
-http://host.gaoxincloud.cn:4000/udp/239.109.205.80:8576
-#EXTINF:-1 ,CCTV5高清
-http://host.gaoxincloud.cn:4000/udp/239.109.205.214:9208
-#EXTINF:-1 ,CCTV5高清
-http://host.gaoxincloud.cn:4000/udp/239.112.205.222:5140
-#EXTINF:-1 ,CCTV5＋高清
-http://host.gaoxincloud.cn:4000/udp/239.111.205.13:5140
-#EXTINF:-1 ,CCTV6高清
-http://host.gaoxincloud.cn:4000/udp/239.112.205.223:5140
-#EXTINF:-1 ,CCTV6高清
-http://host.gaoxincloud.cn:4000/udp/239.109.205.84:8608
-#EXTINF:-1 ,CCTV7高清
-http://host.gaoxincloud.cn:4000/udp/239.110.205.7:9774
-#EXTINF:-1 ,CCTV7高清
-http://host.gaoxincloud.cn:4000/udp/239.112.205.83:5140
-#EXTINF:-1 ,CCTV8高清
-http://host.gaoxincloud.cn:4000/udp/239.109.205.90:8656
-#EXTINF:-1 ,CCTV8高清
-http://host.gaoxincloud.cn:4000/udp/239.112.205.224:5140
-#EXTINF:-1 ,CCTV9高清
-http://host.gaoxincloud.cn:4000/udp/239.110.205.8:9778
-#EXTINF:-1 ,CCTV9高清
-http://host.gaoxincloud.cn:4000/udp/239.112.205.85:5140
-#EXTINF:-1 ,CCTV10高清
-http://host.gaoxincloud.cn:4000/udp/239.110.205.9:9782
-#EXTINF:-1 ,CCTV10高清
-http://host.gaoxincloud.cn:4000/udp/239.112.205.86:5140
-#EXTINF:-1 ,CCTV11高清
-http://host.gaoxincloud.cn:4000/udp/239.109.205.102:8752
-#EXTINF:-1 ,CCTV11高清
-http://host.gaoxincloud.cn:4000/udp/239.112.205.213:5140
-#EXTINF:-1 ,CCTV12高清
-http://host.gaoxincloud.cn:4000/udp/239.110.205.10:9786
-#EXTINF:-1 ,CCTV12高清
-http://host.gaoxincloud.cn:4000/udp/239.112.205.88:5140
-#EXTINF:-1 ,CCTV13[1920*1080]
-http://host.gaoxincloud.cn:4000/udp/239.111.205.53:5140
-#EXTINF:-1 ,CCTV14高清
-http://host.gaoxincloud.cn:4000/udp/239.110.205.20:9826
-#EXTINF:-1 ,CCTV14高清
-http://host.gaoxincloud.cn:4000/udp/239.112.205.91:5140
-#EXTINF:-1 ,CCTV15高清
-http://host.gaoxincloud.cn:4000/udp/239.109.205.103:8760
-#EXTINF:-1 ,CCTV15高清
-http://host.gaoxincloud.cn:4000/udp/239.112.205.214:5140
-#EXTINF:-1 ,CCTV16[1920*1080]
-http://host.gaoxincloud.cn:4000/udp/239.111.205.133:5140
-#EXTINF:-1 ,CCTV17高清
-http://host.gaoxincloud.cn:4000/udp/239.109.205.88:8640
-#EXTINF:-1 ,CCTV17高清
-http://host.gaoxincloud.cn:4000/udp/239.112.205.211:5140
-#EXTINF:-1 ,安徽卫视高清
-http://host.gaoxincloud.cn:4000/udp/239.110.205.11:9790
-#EXTINF:-1 ,辽宁卫视高清
-http://host.gaoxincloud.cn:4000/udp/239.110.205.12:9794
-#EXTINF:-1 ,东方卫视高清
-http://host.gaoxincloud.cn:4000/udp/239.112.205.61:5140
-#EXTINF:-1 ,湖南卫视高清
-http://host.gaoxincloud.cn:4000/udp/239.112.205.62:5140
-#EXTINF:-1 ,江苏卫视高清
-http://host.gaoxincloud.cn:4000/udp/239.112.205.63:5140
-#EXTINF:-1 ,浙江卫视高清
-http://host.gaoxincloud.cn:4000/udp/239.112.205.64:5140
-#EXTINF:-1 ,北京卫视高清
-http://host.gaoxincloud.cn:4000/udp/239.112.205.65:5140
-#EXTINF:-1 ,广东卫视高清
-http://host.gaoxincloud.cn:4000/udp/239.112.205.66:5140
-#EXTINF:-1 ,深圳卫视高清
-http://host.gaoxincloud.cn:4000/udp/239.112.205.67:5140
-#EXTINF:-1 ,黑龙江卫视高清
-http://host.gaoxincloud.cn:4000/udp/239.112.205.68:5140
-#EXTINF:-1 ,湖北卫视高清
-http://host.gaoxincloud.cn:4000/udp/239.112.205.69:5140
-#EXTINF:-1 ,山东卫视高清
-http://host.gaoxincloud.cn:4000/udp/239.112.205.70:5140
-#EXTINF:-1 ,安徽卫视高清
-http://host.gaoxincloud.cn:4000/udp/239.112.205.72:5140
-#EXTINF:-1 ,辽宁卫视高清
-http://host.gaoxincloud.cn:4000/udp/239.112.205.73:5140
-#EXTINF:-1 ,天津卫视高清
-http://host.gaoxincloud.cn:4000/udp/239.112.205.74:5140
-#EXTINF:-1 ,江苏卫视高清
-http://host.gaoxincloud.cn:4000/udp/239.109.205.119:8368
-#EXTINF:-1 ,浙江卫视高清
-http://host.gaoxincloud.cn:4000/udp/239.109.205.120:8896
-#EXTINF:-1 ,东方卫视高清
-http://host.gaoxincloud.cn:4000/udp/239.109.205.121:8904
-#EXTINF:-1 ,北京卫视高清
-http://host.gaoxincloud.cn:4000/udp/239.109.205.162:8898
-#EXTINF:-1 ,湖南卫视高清
-http://host.gaoxincloud.cn:4000/udp/239.109.205.163:9002
-#EXTINF:-1 ,湖北卫视高清
-http://host.gaoxincloud.cn:4000/udp/239.109.205.165:9006
-#EXTINF:-1 ,东南卫视高清
-http://host.gaoxincloud.cn:4000/udp/239.109.205.177:9626
-#EXTINF:-1 ,贵州卫视高清
-http://host.gaoxincloud.cn:4000/udp/239.112.205.178:5140
-#EXTINF:-1 ,重庆卫视高清
-http://host.gaoxincloud.cn:4000/udp/239.112.205.179:5140
-#EXTINF:-1 ,河南卫视高清
-http://host.gaoxincloud.cn:4000/udp/239.112.205.180:5140
-#EXTINF:-1 ,东南卫视高清
-http://host.gaoxincloud.cn:4000/udp/239.112.205.182:5140
-#EXTINF:-1 ,吉林卫视高清
-http://host.gaoxincloud.cn:4000/udp/239.112.205.183:5140
-#EXTINF:-1 ,四川卫视高清
-http://host.gaoxincloud.cn:4000/udp/239.112.205.184:5140
-#EXTINF:-1 ,优漫卡通
-http://host.gaoxincloud.cn:4000/udp/239.112.205.185:5140
-#EXTINF:-1 ,广东卫视高清
-http://host.gaoxincloud.cn:4000/udp/239.109.205.188:9610
-#EXTINF:-1 ,深圳卫视高清
-http://host.gaoxincloud.cn:4000/udp/239.109.205.189:9602
-#EXTINF:-1 ,黑龙江卫视高清
-http://host.gaoxincloud.cn:4000/udp/239.109.205.190:9604
-#EXTINF:-1 ,山东卫视高清
-http://host.gaoxincloud.cn:4000/udp/239.109.205.191:9606
-#EXTINF:-1 ,河北卫视高清
-http://host.gaoxincloud.cn:4000/udp/239.112.205.200:5140
-#EXTINF:-1 ,教育1高清
-http://host.gaoxincloud.cn:4000/udp/239.112.205.201:5140
-#EXTINF:-1 ,金鹰纪实高清
-http://host.gaoxincloud.cn:4000/udp/239.112.205.203:5140
-#EXTINF:-1 ,上海纪实高清
-http://host.gaoxincloud.cn:4000/udp/239.112.205.204:5140
-#EXTINF:-1 ,CHC家庭影院高清
-http://host.gaoxincloud.cn:4000/udp/239.112.205.205:5140
-#EXTINF:-1 ,CHC高清电影高清
-http://host.gaoxincloud.cn:4000/udp/239.112.205.206:5140
-#EXTINF:-1 ,CHC动作电影高清
-http://host.gaoxincloud.cn:4000/udp/239.112.205.207:5140
-#EXTINF:-1 ,重庆卫视高清
-http://host.gaoxincloud.cn:4000/udp/239.109.205.70:8496
-#EXTINF:-1 ,教育1高清
-http://host.gaoxincloud.cn:4000/udp/239.109.205.78:8560
-#EXTINF:-1 ,江西卫视高清
-http://host.gaoxincloud.cn:4000/udp/239.109.205.96:8704
-#EXTINF:-1 ,CHC高清电影高清
-http://host.gaoxincloud.cn:4000/udp/239.109.205.97:8712
-#EXTINF:-1 ,CHC家庭影院高清
-http://host.gaoxincloud.cn:4000/udp/239.109.205.104:8768
-#EXTINF:-1 ,吉林卫视高清
-http://host.gaoxincloud.cn:4000/udp/239.109.205.115:8856
-#EXTINF:-1 ,贵州卫视高清
-http://host.gaoxincloud.cn:4000/udp/239.109.205.139:9024
-#EXTINF:-1 ,河南卫视高清
-http://host.gaoxincloud.cn:4000/udp/239.109.205.140:9026
-#EXTINF:-1 ,全纪实高清
-http://host.gaoxincloud.cn:4000/udp/239.109.205.156:9102
-#EXTINF:-1 ,河北卫视高清
-http://host.gaoxincloud.cn:4000/udp/239.109.205.158:9106
-#EXTINF:-1 ,CHC动作电影高清
-http://host.gaoxincloud.cn:4000/udp/239.110.205.6:9770
-#EXTINF:-1 ,江西卫视高清测试
-http://host.gaoxincloud.cn:4000/udp/239.111.205.16:5140
-#EXTINF:-1 ,四川卫视高清
-http://host.gaoxincloud.cn:4000/udp/239.110.205.18:9818
-#EXTINF:-1 ,天津卫视高清
-http://host.gaoxincloud.cn:4000/udp/239.110.205.23:9838
-#EXTINF:-1 ,====== ??北京联通专线,#genre# ======
-http://7/7.m3u8
-#EXTINF:-1 ,CCTV1高清
-http://123.115.117.113:9000/rtp/239.3.1.129:8008
-#EXTINF:-1 ,CCTV2高清
-http://123.115.117.113:9000/rtp/239.3.1.60:8084
-#EXTINF:-1 ,CCTV3高清
-http://123.115.117.113:9000/rtp/239.3.1.172:8001
-#EXTINF:-1 ,CCTV4高清
-http://123.115.117.113:9000/rtp/239.3.1.105:8092
-#EXTINF:-1 ,CCTV4美洲高清
-http://123.115.117.113:9000/rtp/239.3.1.214:4220
-#EXTINF:-1 ,CCTV4欧洲高清
-http://123.115.117.113:9000/rtp/239.3.1.213:4220
-#EXTINF:-1 ,CCTV5高清
-http://123.115.117.113:9000/rtp/239.3.1.173:8001
-#EXTINF:-1 ,CCTV5+
-http://123.115.117.113:9000/rtp/239.3.1.130:8004
-#EXTINF:-1 ,CCTV6高清
-http://123.115.117.113:9000/rtp/239.3.1.174:8001
-#EXTINF:-1 ,CCTV7高清
-http://123.115.117.113:9000/rtp/239.3.1.61:8104
-#EXTINF:-1 ,CCTV8高清
-http://123.115.117.113:9000/rtp/239.3.1.175:8001
-#EXTINF:-1 ,CCTV9高清
-http://123.115.117.113:9000/rtp/239.3.1.62:8112
-#EXTINF:-1 ,CCTV10高清
-http://123.115.117.113:9000/rtp/239.3.1.63:8116
-#EXTINF:-1 ,CCTV11高清
-http://123.115.117.113:9000/rtp/239.3.1.152:8120
-#EXTINF:-1 ,CCTV12高清
-http://123.115.117.113:9000/rtp/239.3.1.64:8124
-#EXTINF:-1 ,CCTV13高清
-http://123.115.117.113:9000/rtp/239.3.1.124:8128
-#EXTINF:-1 ,CCTV14高清
-http://123.115.117.113:9000/rtp/239.3.1.65:8132
-#EXTINF:-1 ,CCTV15高清
-http://123.115.117.113:9000/rtp/239.3.1.153:8136
-#EXTINF:-1 ,CCTV16高清
-http://123.115.117.113:9000/rtp/239.3.1.184:8001
-#EXTINF:-1 ,CCTV17高清
-http://123.115.117.113:9000/rtp/239.3.1.151:8144
-#EXTINF:-1 ,CETV1高清
-http://123.115.117.113:9000/rtp/239.3.1.57:8152
-#EXTINF:-1 ,CGTN
-http://123.115.117.113:9000/rtp/239.3.1.16:8056
-#EXTINF:-1 ,CGTN
-http://123.115.117.113:9000/rtp/239.3.1.215:4220
-#EXTINF:-1 ,CGTN纪录
-http://123.115.117.113:9000/rtp/239.3.1.216:4220
-#EXTINF:-1 ,CGTN西班牙语
-http://123.115.117.113:9000/rtp/239.3.1.217:4220
-#EXTINF:-1 ,CGTN法语
-http://123.115.117.113:9000/rtp/239.3.1.218:4220
-#EXTINF:-1 ,CGTN阿拉伯语
-http://123.115.117.113:9000/rtp/239.3.1.219:4220
-#EXTINF:-1 ,CGTN俄语
-http://123.115.117.113:9000/rtp/239.3.1.220:4220
-#EXTINF:-1 ,CCTV1
-http://123.115.117.113:9000/rtp/239.3.1.1:8000
-#EXTINF:-1 ,CCTV2
-http://123.115.117.113:9000/rtp/239.3.1.2:8004
-#EXTINF:-1 ,CCTV3
-http://123.115.117.113:9000/rtp/239.3.1.107:8001
-#EXTINF:-1 ,CCTV4
-http://123.115.117.113:9000/rtp/239.3.1.4:8216
-#EXTINF:-1 ,CCTV5
-http://123.115.117.113:9000/rtp/239.3.1.108:8001
-#EXTINF:-1 ,CCTV6
-http://123.115.117.113:9000/rtp/239.3.1.109:8001
-#EXTINF:-1 ,CCTV7
-http://123.115.117.113:9000/rtp/239.3.1.7:8024
-#EXTINF:-1 ,CCTV8
-http://123.115.117.113:9000/rtp/239.3.1.110:8001
-#EXTINF:-1 ,CCTV9
-http://123.115.117.113:9000/rtp/239.3.1.9:8032
-#EXTINF:-1 ,CCTV10
-http://123.115.117.113:9000/rtp/239.3.1.10:8228
-#EXTINF:-1 ,CCTV11
-http://123.115.117.113:9000/rtp/239.3.1.11:8040
-#EXTINF:-1 ,CCTV12
-http://123.115.117.113:9000/rtp/239.3.1.12:8232
-#EXTINF:-1 ,CCTV13
-http://123.115.117.113:9000/rtp/239.3.1.13:8048
-#EXTINF:-1 ,CCTV14
-http://123.115.117.113:9000/rtp/239.3.1.14:8236
-#EXTINF:-1 ,CCTV15
-http://123.115.117.113:9000/rtp/239.3.1.15:8052
-#EXTINF:-1 ,CCTV17
-http://123.115.117.113:9000/rtp/239.3.1.150:8064
-#EXTINF:-1 ,CETV1
-http://123.115.117.113:9000/rtp/239.3.1.146:4120
-#EXTINF:-1 ,CETV2
-http://123.115.117.113:9000/rtp/239.3.1.54:4120
-#EXTINF:-1 ,CETV3
-http://123.115.117.113:9000/rtp/239.3.1.55:4120
-#EXTINF:-1 ,CETV4
-http://123.115.117.113:9000/rtp/239.3.1.56:4120
-#EXTINF:-1 ,湖南卫视高清
-http://123.115.117.113:9000/rtp/239.3.1.132:8012
-#EXTINF:-1 ,江苏卫视高清
-http://123.115.117.113:9000/rtp/239.3.1.135:8028
-#EXTINF:-1 ,东方卫视高清
-http://123.115.117.113:9000/rtp/239.3.1.136:8032
-#EXTINF:-1 ,浙江卫视高清
-http://123.115.117.113:9000/rtp/239.3.1.137:8036
-#EXTINF:-1 ,湖北卫视高清
-http://123.115.117.113:9000/rtp/239.3.1.138:8044
-#EXTINF:-1 ,天津卫视高清
-http://123.115.117.113:9000/rtp/239.3.1.141:1234
-#EXTINF:-1 ,山东卫视高清
-http://123.115.117.113:9000/rtp/239.3.1.209:8052
-#EXTINF:-1 ,辽宁卫视高清
-http://123.115.117.113:9000/rtp/239.3.1.210:8056
-#EXTINF:-1 ,安徽卫视高清
-http://123.115.117.113:9000/rtp/239.3.1.211:8064
-#EXTINF:-1 ,黑龙江卫视高清
-http://123.115.117.113:9000/rtp/239.3.1.133:8016
-#EXTINF:-1 ,贵州卫视高清
-http://123.115.117.113:9000/rtp/239.3.1.149:8076
-#EXTINF:-1 ,东南卫视高清
-http://123.115.117.113:9000/rtp/239.3.1.156:8148
-#EXTINF:-1 ,重庆卫视高清
-http://123.115.117.113:9000/rtp/239.3.1.122:8160
-#EXTINF:-1 ,江西卫视高清
-http://123.115.117.113:9000/rtp/239.3.1.123:8164
-#EXTINF:-1 ,广东卫视高清
-http://123.115.117.113:9000/rtp/239.3.1.142:8048
-#EXTINF:-1 ,河北卫视高清
-http://123.115.117.113:9000/rtp/239.3.1.148:8072
-#EXTINF:-1 ,深圳卫视高清
-http://123.115.117.113:9000/rtp/239.3.1.134:8020
-#EXTINF:-1 ,吉林卫视高清
-http://123.115.117.113:9000/rtp/239.3.1.240:8172
-#EXTINF:-1 ,海南卫视
-http://123.115.117.113:9000/rtp/239.3.1.45:8304
-#EXTINF:-1 ,云南卫视
-http://123.115.117.113:9000/rtp/239.3.1.26:8108
-#EXTINF:-1 ,兵团卫视
-http://123.115.117.113:9000/rtp/239.3.1.144:4120
-#EXTINF:-1 ,厦门卫视
-http://123.115.117.113:9000/rtp/239.3.1.143:4120
-#EXTINF:-1 ,四川卫视
-http://123.115.117.113:9000/rtp/239.3.1.29:8288
-#EXTINF:-1 ,南方卫视
-http://123.115.117.113:9000/rtp/239.3.1.161:8001
-#EXTINF:-1 ,宁夏卫视
-http://123.115.117.113:9000/rtp/239.3.1.46:8124
-#EXTINF:-1 ,山西卫视
-http://123.115.117.113:9000/rtp/239.3.1.42:8172
-#EXTINF:-1 ,广西卫视
-http://123.115.117.113:9000/rtp/239.3.1.39:8300
-#EXTINF:-1 ,新疆卫视
-http://123.115.117.113:9000/rtp/239.3.1.48:8160
-#EXTINF:-1 ,河南卫视
-http://123.115.117.113:9000/rtp/239.3.1.27:8128
-#EXTINF:-1 ,甘肃卫视
-http://123.115.117.113:9000/rtp/239.3.1.49:8188
-#EXTINF:-1 ,西藏卫视
-http://123.115.117.113:9000/rtp/239.3.1.47:8164
-#EXTINF:-1 ,三沙卫视
-http://123.115.117.113:9000/rtp/239.3.1.155:4120
-#EXTINF:-1 ,陕西卫视
-http://123.115.117.113:9000/rtp/239.3.1.41:8140
-#EXTINF:-1 ,青海卫视
-http://123.115.117.113:9000/rtp/239.3.1.44:8184
-#EXTINF:-1 ,内蒙古卫视
-http://123.115.117.113:9000/rtp/239.3.1.43:8176
-#EXTINF:-1 ,湖南卫视
-http://123.115.117.113:9000/rtp/239.3.1.18:8268
-#EXTINF:-1 ,浙江卫视
-http://123.115.117.113:9000/rtp/239.3.1.19:8284
-#EXTINF:-1 ,江苏卫视
-http://123.115.117.113:9000/rtp/239.3.1.20:8276
-#EXTINF:-1 ,安徽卫视
-http://123.115.117.113:9000/rtp/239.3.1.21:8272
-#EXTINF:-1 ,天津卫视
-http://123.115.117.113:9000/rtp/239.3.1.23:8144
-#EXTINF:-1 ,辽宁卫视
-http://123.115.117.113:9000/rtp/239.3.1.24:8116
-#EXTINF:-1 ,山东卫视
-http://123.115.117.113:9000/rtp/239.3.1.25:8148
-#EXTINF:-1 ,山东教育
-http://123.115.117.113:9000/rtp/239.3.1.52:4120
-#EXTINF:-1 ,黑龙江卫视
-http://123.115.117.113:9000/rtp/239.3.1.28:8196
-#EXTINF:-1 ,江西卫视
-http://123.115.117.113:9000/rtp/239.3.1.30:8280
-#EXTINF:-1 ,贵州卫视
-http://123.115.117.113:9000/rtp/239.3.1.31:8120
-#EXTINF:-1 ,深圳卫视
-http://123.115.117.113:9000/rtp/239.3.1.32:9244
-#EXTINF:-1 ,湖北卫视
-http://123.115.117.113:9000/rtp/239.3.1.33:8136
-#EXTINF:-1 ,东方卫视
-http://123.115.117.113:9000/rtp/239.3.1.34:8192
-#EXTINF:-1 ,重庆卫视
-http://123.115.117.113:9000/rtp/239.3.1.35:8296
-#EXTINF:-1 ,东南卫视
-http://123.115.117.113:9000/rtp/239.3.1.36:8112
-#EXTINF:-1 ,河北卫视
-http://123.115.117.113:9000/rtp/239.3.1.37:8292
-#EXTINF:-1 ,广东卫视
-http://123.115.117.113:9000/rtp/239.3.1.38:8132
-#EXTINF:-1 ,吉林卫视
-http://123.115.117.113:9000/rtp/239.3.1.40:8200
-#EXTINF:-1 ,山东教育
-http://123.115.117.113:9000/rtp/239.3.1.52:4120
-#EXTINF:-1 ,BRTV北京卫视高清
-http://123.115.117.113:9000/rtp/239.3.1.241:8000
-#EXTINF:-1 ,BRTV文艺高清
-http://123.115.117.113:9000/rtp/239.3.1.242:8000
-#EXTINF:-1 ,BRTV纪实科教高清
-http://123.115.117.113:9000/rtp/239.3.1.115:8000
-#EXTINF:-1 ,BRTV影视高清
-http://123.115.117.113:9000/rtp/239.3.1.158:8000
-#EXTINF:-1 ,BRTV财*高清
-http://123.115.117.113:9000/rtp/239.3.1.116:8000
-#EXTINF:-1 ,BRTV体育休闲高清
-http://123.115.117.113:9000/rtp/239.3.1.243:8000
-#EXTINF:-1 ,BRTV生活高清
-http://123.115.117.113:9000/rtp/239.3.1.117:8000
-#EXTINF:-1 ,BRTV新闻高清
-http://123.115.117.113:9000/rtp/239.3.1.159:8000
-#EXTINF:-1 ,BRTV卡酷少儿高清
-http://123.115.117.113:9000/rtp/239.3.1.189:8000
-#EXTINF:-1 ,BRTV北京卫视
-http://123.115.117.113:9000/rtp/239.3.1.225:8000
-#EXTINF:-1 ,BRTV文艺
-http://123.115.117.113:9000/rtp/239.3.1.226:8000
-#EXTINF:-1 ,BRTV纪实科教
-http://123.115.117.113:9000/rtp/239.3.1.227:8000
-#EXTINF:-1 ,BRTV影视
-http://123.115.117.113:9000/rtp/239.3.1.228:8000
-#EXTINF:-1 ,BRTV财*
-http://123.115.117.113:9000/rtp/239.3.1.229:8000
-#EXTINF:-1 ,BRTV体育休闲
-http://123.115.117.113:9000/rtp/239.3.1.230:8000
-#EXTINF:-1 ,BRTV生活
-http://123.115.117.113:9000/rtp/239.3.1.231:8000
-#EXTINF:-1 ,BRTV新闻
-http://123.115.117.113:9000/rtp/239.3.1.233:8000
-#EXTINF:-1 ,BRTV卡酷少儿
-http://123.115.117.113:9000/rtp/239.3.1.234:8000
-#EXTINF:-1 ,BTV国际频道
-http://123.115.117.113:9000/rtp/239.3.1.235:8000
-#EXTINF:-1 ,房山电视台
-http://123.115.117.113:9000/rtp/239.3.1.96:8001
-#EXTINF:-1 ,朝阳融媒HD
-http://123.115.117.113:9000/rtp/239.3.1.163:8001
-#EXTINF:-1 ,通州融媒HD
-http://123.115.117.113:9000/rtp/239.3.1.221:8001
-#EXTINF:-1 ,密云电视台HD
-http://123.115.117.113:9000/rtp/239.3.1.154:8001
-#EXTINF:-1 ,延庆电视台
-http://123.115.117.113:9000/rtp/239.3.1.187:8001
-#EXTINF:-1 ,纪实人文HD
-http://123.115.117.113:9000/rtp/239.3.1.212:8060
-#EXTINF:-1 ,金鹰纪实HD
-http://123.115.117.113:9000/rtp/239.3.1.58:8156
-#EXTINF:-1 ,中国交通HD
-http://123.115.117.113:9000/rtp/239.3.1.188:8001
-#EXTINF:-1 ,茶频道HD
-http://123.115.117.113:9000/rtp/239.3.1.165:8001
-#EXTINF:-1 ,淘电影HD
-http://123.115.117.113:9000/rtp/239.3.1.250:8001
-#EXTINF:-1 ,淘BabyHD
-http://123.115.117.113:9000/rtp/239.3.1.238:8001
-#EXTINF:-1 ,淘精彩HD
-http://123.115.117.113:9000/rtp/239.3.1.178:8001
-#EXTINF:-1 ,淘娱乐HD
-http://123.115.117.113:9000/rtp/239.3.1.100:8001
-#EXTINF:-1 ,淘剧场HD
-http://123.115.117.113:9000/rtp/239.3.1.95:8001
-#EXTINF:-1 ,财富天下
-http://123.115.117.113:9000/rtp/239.3.1.53:9136
-#EXTINF:-1 ,金鹰卡通
-http://123.115.117.113:9000/rtp/239.3.1.51:9252
-#EXTINF:-1 ,嘉佳卡通
-http://123.115.117.113:9000/rtp/239.3.1.147:9268
-#EXTINF:-1 ,快乐垂钓
-http://123.115.117.113:9000/rtp/239.3.1.164:8001
-#EXTINF:-1 ,星影
-http://123.115.117.113:9000/rtp/239.3.1.94:4120
-#EXTINF:-1 ,光影
-http://123.115.117.113:9000/rtp/239.3.1.84:4120
-#EXTINF:-1 ,精选
-http://123.115.117.113:9000/rtp/239.3.1.74:4120
-#EXTINF:-1 ,地理
-http://123.115.117.113:9000/rtp/239.3.1.71:4120
-#EXTINF:-1 ,解密
-http://123.115.117.113:9000/rtp/239.3.1.75:4120
-#EXTINF:-1 ,军事
-http://123.115.117.113:9000/rtp/239.3.1.76:4120
-#EXTINF:-1 ,戏曲
-http://123.115.117.113:9000/rtp/239.3.1.78:4120
-#EXTINF:-1 ,早教
-http://123.115.117.113:9000/rtp/239.3.1.79:4120
-#EXTINF:-1 ,美人
-http://123.115.117.113:9000/rtp/239.3.1.73:4120
-#EXTINF:-1 ,美妆
-http://123.115.117.113:9000/rtp/239.3.1.72:4120
-#EXTINF:-1 ,足球
-http://123.115.117.113:9000/rtp/239.3.1.89:4120
-#EXTINF:-1 ,鉴赏
-http://123.115.117.113:9000/rtp/239.3.1.82:4120
-#EXTINF:-1 ,动画
-http://123.115.117.113:9000/rtp/239.3.1.80:4120
-#EXTINF:-1 ,台球
-http://123.115.117.113:9000/rtp/239.3.1.85:4120
-#EXTINF:-1 ,国学
-http://123.115.117.113:9000/rtp/239.3.1.77:4120
-#EXTINF:-1 ,墨宝
-http://123.115.117.113:9000/rtp/239.3.1.83:4120
-#EXTINF:-1 ,武术
-http://123.115.117.113:9000/rtp/239.3.1.87:4120
-#EXTINF:-1 ,高网
-http://123.115.117.113:9000/rtp/239.3.1.88:4120
-#EXTINF:-1 ,好学生
-http://123.115.117.113:9000/rtp/239.3.1.81:4120
-#EXTINF:-1 ,爱生活
-http://123.115.117.113:9000/rtp/239.3.1.86:4120
-#EXTINF:-1 ,粤荟萃
-http://123.115.117.113:9000/rtp/239.3.1.162:8001
-#EXTINF:-1 ,大健康
-http://123.115.117.113:9000/rtp/239.3.1.251:8001
-#EXTINF:-1 ,睛彩竞技HD
-http://123.115.117.113:9000/rtp/239.3.1.125:8001
-#EXTINF:-1 ,睛彩篮球HD
-http://123.115.117.113:9000/rtp/239.3.1.126:8001
-#EXTINF:-1 ,睛彩羽毛球HD
-http://123.115.117.113:9000/rtp/239.3.1.127:8001
-#EXTINF:-1 ,睛彩广场舞HD
-http://123.115.117.113:9000/rtp/239.3.1.128:8001
-#EXTINF:-1 ,体育赛事HD
-http://123.115.117.113:9000/rtp/239.3.1.157:8176
-#EXTINF:-1 ,4K超清
-http://123.115.117.113:9000/rtp/239.3.1.249:8001
-#EXTINF:-1 ,爱上4K
-http://123.115.117.113:9000/rtp/239.3.1.236:2000
-#EXTINF:-1 ,熊猫频道
-http://123.115.117.113:9000/rtp/239.3.1.66:8068
-#EXTINF:-1 ,萌宠TV
-http://123.115.117.113:9000/rtp/239.3.1.102:8001
-#EXTINF:-1 ,魅力时尚
-http://123.115.117.113:9000/rtp/239.3.1.196:9012
-#EXTINF:-1 ,文化北京
-http://123.115.117.113:9000/rtp/239.3.1.97:8001
-#EXTINF:-1 ,音乐现场
-http://123.115.117.113:9000/rtp/239.3.1.70:4120
-#EXTINF:-1 ,收视指南
-http://123.115.117.113:9000/rtp/239.3.1.193:8012
-#EXTINF:-1 ,少儿动画
-http://123.115.117.113:9000/rtp/239.3.1.199:9000
-#EXTINF:-1 ,经典电影
-http://123.115.117.113:9000/rtp/239.3.1.195:9024
-#EXTINF:-1 ,家庭影院
-http://123.115.117.113:9000/rtp/239.3.1.93:4120
-#EXTINF:-1 ,喜剧影院
-http://123.115.117.113:9000/rtp/239.3.1.91:4120
-#EXTINF:-1 ,动作影院
-http://123.115.117.113:9000/rtp/239.3.1.92:4120
-#EXTINF:-1 ,热播剧场
-http://123.115.117.113:9000/rtp/239.3.1.194:9020
-#EXTINF:-1 ,军旅剧场
-http://123.115.117.113:9000/rtp/239.3.1.68:4120
-#EXTINF:-1 ,古装剧场
-http://123.115.117.113:9000/rtp/239.3.1.69:4120
-#EXTINF:-1 ,城市剧场
-http://123.115.117.113:9000/rtp/239.3.1.67:4120
-#EXTINF:-1 ,武侠剧场
-http://123.115.117.113:9000/rtp/239.3.1.90:4120
+
+频道1#genre#
+
+ 
+ BOX OF PORN,http://206.212.244.71:8080/4wVQA7/625159/159964
+ BRATTY SIS,http://206.212.244.71:8080/4wVQA7/625159/159965
+ BRAZZERS,http://206.212.244.71:8080/4wVQA7/625159/159966
+ BUMS BUS,http://206.212.244.71:8080/4wVQA7/625159/159967
+ CASTING COUCH,http://206.212.244.71:8080/4wVQA7/625159/159968
+ CUM 4K,http://206.212.244.71:8080/4wVQA7/625159/159969
+ DAGFS,http://206.212.244.71:8080/4wVQA7/625159/159970
+ DDF BUSTY,http://206.212.244.71:8080/4wVQA7/625159/159971
+ DIABOLIC,http://206.212.244.71:8080/4wVQA7/625159/159972
+ DIGITAL PLAYGROUND,http://206.212.244.71:8080/4wVQA7/625159/159973
+ DOGFART NETWORK,http://206.212.244.71:8080/4wVQA7/625159/159974
+ DORCEL CLUB,http://206.212.244.71:8080/4wVQA7/625159/159975
+ DREAMROOM,http://206.212.244.71:8080/4wVQA7/625159/159976
+ EROTIKVONBENAN,http://206.212.244.71:8080/4wVQA7/625159/159977
+ FAKE HOSTEL,http://206.212.244.71:8080/4wVQA7/625159/159979
+ FAKE TAXI,http://206.212.244.71:8080/4wVQA7/625159/159980
+ FAMILY STROKES,http://206.212.244.71:8080/4wVQA7/625159/159981
+ FAMILY SWAP XXX,http://206.212.244.71:8080/4wVQA7/625159/159982
+ FAPADOO,http://206.212.244.71:8080/4wVQA7/625159/159983
+ FILTHY POV,http://206.212.244.71:8080/4wVQA7/625159/159984
+ FIRST ANAL QUEST,http://206.212.244.71:8080/4wVQA7/625159/159985
+ FIT 18,http://206.212.244.71:8080/4wVQA7/625159/159986
+ GOTMYLF,http://206.212.244.71:8080/4wVQA7/625159/159987
+ HENTAINED,http://206.212.244.71:8080/4wVQA7/625159/159988
+ HER LIMIT,http://206.212.244.71:8080/4wVQA7/625159/159989
+ HOLED,http://206.212.244.71:8080/4wVQA7/625159/159990
+ HOT WIFE XXX,http://206.212.244.71:8080/4wVQA7/625159/159991
+ HUSSIE PASS,http://206.212.244.71:8080/4wVQA7/625159/159992
+ INTERRACIAL PASS,http://206.212.244.71:8080/4wVQA7/625159/159993
+ JAYS POV,http://206.212.244.71:8080/4wVQA7/625159/159994
+ JESH BY JESH,http://206.212.244.71:8080/4wVQA7/625159/159995
+ JOI BABES,http://206.212.244.71:8080/4wVQA7/625159/159996
+ JULES JORDAN,http://206.212.244.71:8080/4wVQA7/625159/159997
+ KINKY FAMILY,http://206.212.244.71:8080/4wVQA7/625159/159998
+ KINKY INLAWS,http://206.212.244.71:8080/4wVQA7/625159/159999
+ LETHAL HARDCORE,http://206.212.244.71:8080/4wVQA7/625159/160001
+ LETHAL TEENS,http://206.212.244.71:8080/4wVQA7/625159/160002
+ LETS DOE IT,http://206.212.244.71:8080/4wVQA7/625159/160003
+ LIFE SELECTOR,http://206.212.244.71:8080/4wVQA7/625159/160004
+ LOVE HER FEET,http://206.212.244.71:8080/4wVQA7/625159/160005
+ LOVE HOME PORN,http://206.212.244.71:8080/4wVQA7/625159/160006
+ LUBED,http://206.212.244.71:8080/4wVQA7/625159/160007
+ LUXURE,http://206.212.244.71:8080/4wVQA7/625159/160008
+ MAMACITAZ,http://206.212.244.71:8080/4wVQA7/625159/160009
+ MASSAGE ROOMS,http://206.212.244.71:8080/4wVQA7/625159/160010
+ MODEL MEDIA ASIA,http://206.212.244.71:8080/4wVQA7/625159/160011
+ MOFOS,http://206.212.244.71:8080/4wVQA7/625159/160012
+ MOM TEACH SEX,http://206.212.244.71:8080/4wVQA7/625159/160013
+ MOM XXX,http://206.212.244.71:8080/4wVQA7/625159/160014
+ MOMMY BLOWS BEST,http://206.212.244.71:8080/4wVQA7/625159/160015
+ MUST NOT FAP,http://206.212.244.71:8080/4wVQA7/625159/160016
+ MY DIRTY HOBBY,http://206.212.244.71:8080/4wVQA7/625159/160017
+ MY FAMILY PIES,http://206.212.244.71:8080/4wVQA7/625159/160018
+ MY LIFE IN MIAMI,http://206.212.244.71:8080/4wVQA7/625159/160019
+ MY PERVY FAMILY,http://206.212.244.71:8080/4wVQA7/625159/160020
+ MY TINY WISH,http://206.212.244.71:8080/4wVQA7/625159/160021
+ MYLF,http://206.212.244.71:8080/4wVQA7/625159/160022
+ NEW SENSATIONS,http://206.212.244.71:8080/4wVQA7/625159/160023
+ NF BUSTY,http://206.212.244.71:8080/4wVQA7/625159/160024
+ NUBILE FILMS,http://206.212.244.71:8080/4wVQA7/625159/160025
+ NURU MASSAGE,http://206.212.244.71:8080/4wVQA7/625159/160026
+ PASSION,http://206.212.244.71:8080/4wVQA7/625159/160027
+ PERV CITY,http://206.212.244.71:8080/4wVQA7/625159/160028
+ PERV MOM,http://206.212.244.71:8080/4wVQA7/625159/160029
+ PORN WORLD HARDCORE,http://206.212.244.71:8080/4wVQA7/625159/160030
+ PORNHOCHIC,http://206.212.244.71:8080/4wVQA7/625159/160031
+ POVD,http://206.212.244.71:8080/4wVQA7/625159/160032
+ PRENCESS CUM,http://206.212.244.71:8080/4wVQA7/625159/160033
+ PRIVATE,http://206.212.244.71:8080/4wVQA7/625159/160034
+ PROPERTY SEX,http://206.212.244.71:8080/4wVQA7/625159/160035
+ PUBLIC AGENT,http://206.212.244.71:8080/4wVQA7/625159/160036
+ PURE MATURE,http://206.212.244.71:8080/4wVQA7/625159/160037
+ REAL DIRTY VIDEOS,http://206.212.244.71:8080/4wVQA7/625159/160038
+ REALITY JUNKIES,http://206.212.244.71:8080/4wVQA7/625159/160040
+ REALITY KINGS,http://206.212.244.71:8080/4wVQA7/625159/160041
+ SLIM 4K,http://206.212.244.71:8080/4wVQA7/625159/160042
+ STROKIES,http://206.212.244.71:8080/4wVQA7/625159/160043
+ SUGAR BABES TV,http://206.212.244.71:8080/4wVQA7/625159/160044
+
+femjoy,http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6212/index.m3u8
+Кино 18+,http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/18075/index.m3u8
+Eromania 4K,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/10049/index.m3u8
+Playboy,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/527/index.m3u8
+Русская Ночь,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/147/index.m3u8
+Brazzers TV Europe,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/910/index.m3u8
+Blue Hustler,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/1064/index.m3u8
+Barely legal,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/871/index.m3u8
+Redlight HD,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/242/index.m3u8
+Private TV,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/243/index.m3u8
+Hustler HD Europe,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/244/index.m3u8
+Dorcel TV HD,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/245/index.m3u8
+Premier Sports 1 HD 50 UK,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/2160/index.m3u8
+O-la-la,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/2161/index.m3u8
+Vivid Red HD,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/2162/index.m3u8
+Exxxotica HD,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/2397/index.m3u8
+XXL,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/5009/index.m3u8
+Penthouse Passion,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/5010/index.m3u8
+Penthouse Gold HD,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/5011/index.m3u8
+Penthouse Reality TV HD,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/5012/index.m3u8
+Penthouse Reality TV FHD,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/5013/index.m3u8
+Extasy 4K,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/5014/index.m3u8
+Eroxxx HD,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/5015/index.m3u8
+A3 Bikini,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6165/index.m3u8
+Adult Time,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6166/index.m3u8
+Anal Red TV,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6167/index.m3u8
+Analized HD,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6168/index.m3u8
+Babes HD,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6171/index.m3u8
+Babes TV HD,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6172/index.m3u8
+Bang Bros HD,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6173/index.m3u8
+Bang!,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6174/index.m3u8
+Big Ass Adult TV,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6175/index.m3u8
+Big Dick Red TV,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6176/index.m3u8
+Big Tits Adult TV,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6177/index.m3u8
+Blacked HD,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6178/index.m3u8
+Blonde Adult TV,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6179/index.m3u8
+Blowjob Red TV,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6180/index.m3u8
+Brazzers eXXtra,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6181/index.m3u8
+Brazzers HD,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6182/index.m3u8
+Brunette Adult TV,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6183/index.m3u8
+Cherry Pimps,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6185/index.m3u8
+Club 17,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6186/index.m3u8
+Compilation Adult TV,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6187/index.m3u8
+Cuckold Red TV,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6188/index.m3u8
+Cum Louder,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6189/index.m3u8
+Cum4k,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6190/index.m3u8
+Daughter Swap,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6191/index.m3u8
+Day with a Pornstar,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6192/index.m3u8
+DDF Busty,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6193/index.m3u8
+DDF Network,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6194/index.m3u8
+Digital Desire HD,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6195/index.m3u8
+Digital Playground HD,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6196/index.m3u8
+Dorcel Club,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6197/index.m3u8
+Dusk,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6198/index.m3u8
+Evil Angel HD,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6199/index.m3u8
+Evolved Fights,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6200/index.m3u8
+Fake Taxi HD,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6202/index.m3u8
+Fap TV 2,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6203/index.m3u8
+Fap TV 3,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6204/index.m3u8
+Fap TV 4,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6205/index.m3u8
+Fap TV Anal,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6206/index.m3u8
+Fap TV BBW,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6207/index.m3u8
+Fap TV Compilation,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6208/index.m3u8
+Fap TV Lesbian,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6209/index.m3u8
+Fap TV Parody,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6210/index.m3u8
+Fap TV Teens,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6211/index.m3u8
+FemJoy,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6212/index.m3u8
+Fetish Red TV,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6213/index.m3u8
+Gangbang Adult TV,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6214/index.m3u8
+Gay Adult TV,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6215/index.m3u8
+Got MYLF,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6216/index.m3u8
+Hands on Hardcore,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6217/index.m3u8
+Hard X,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6218/index.m3u8
+Hardcore Red TV,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6219/index.m3u8
+Hitzefrei HD,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6220/index.m3u8
+Holed,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6221/index.m3u8
+Hot and Mean,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6222/index.m3u8
+Hot Guys Fuck,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6223/index.m3u8
+Interracial Red TV,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6224/index.m3u8
+Japan HDV,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6225/index.m3u8
+Latina Red TV,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6226/index.m3u8
+Lesbea,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6227/index.m3u8
+Lesbian Red TV,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6228/index.m3u8
+Lethal Hardcore,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6229/index.m3u8
+Little Asians HD,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6230/index.m3u8
+Live Cams Adult TV,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6231/index.m3u8
+Lust Cinema,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6232/index.m3u8
+MetArt HD,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6233/index.m3u8
+MILF Red TV,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6234/index.m3u8
+Monsters of Cock,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6235/index.m3u8
+MYLF TV HD,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6236/index.m3u8
+Naughty America,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6237/index.m3u8
+Nubiles TV HD,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6238/index.m3u8
+Pink Erotic 3,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6240/index.m3u8
+Pink Erotic 4,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6241/index.m3u8
+Playboy Plus,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6242/index.m3u8
+Pornstar Red TV,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6243/index.m3u8
+POV Adult TV,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6244/index.m3u8
+Private HD,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6245/index.m3u8
+Public Agent,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6246/index.m3u8
+Reality Kings HD,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6247/index.m3u8
+RK Prime,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6248/index.m3u8
+RK TV,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6249/index.m3u8
+Rough Adult TV,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6250/index.m3u8
+Russian Adult TV,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6251/index.m3u8
+Sex With Muslims,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6252/index.m3u8
+SexArt,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6253/index.m3u8
+SINematica,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6255/index.m3u8
+Teen Red TV,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6256/index.m3u8
+Threesome Red TV,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6257/index.m3u8
+Tiny4K,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6258/index.m3u8
+Trans Angels,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6259/index.m3u8
+True Amateurs,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6260/index.m3u8
+Tushy HD,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6261/index.m3u8
+TushyRAW,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6262/index.m3u8
+Visit-X TV,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6263/index.m3u8
+Vivid TV Europe,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6264/index.m3u8
+Vixen HD,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6265/index.m3u8
+We Live Together,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6266/index.m3u8
+White Boxxx,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6267/index.m3u8
+Wicked,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6268/index.m3u8
+Xpanded TV,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6269/index.m3u8
+Balkan Erotic,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6270/index.m3u8
+Red Lips,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6271/index.m3u8
+Leo TV HD,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6272/index.m3u8
+Extreme,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6273/index.m3u8
+Fast Boyz,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6274/index.m3u8
+HOT,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6275/index.m3u8
+HOT XXL HD,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6276/index.m3u8
+Hot Pleasure,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6277/index.m3u8
+Playboy LA,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6280/index.m3u8
+Red XXX,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6281/index.m3u8
+Sexy Hot,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6282/index.m3u8
+Venus,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6284/index.m3u8
+X-MO,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6285/index.m3u8
+XY Max HD,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6286/index.m3u8
+XY Mix HD,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6287/index.m3u8
+XY Plus HD,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6288/index.m3u8
+Erotic,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6289/index.m3u8
+Erotic 2,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6290/index.m3u8
+Erotic 3,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6291/index.m3u8
+Erotic 4,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6292/index.m3u8
+Erotic 6,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6293/index.m3u8
+Erotic 7,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6294/index.m3u8
+Erotic 8,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6295/index.m3u8
+Erox HD,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6296/index.m3u8
+SuperOne HD,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6298/index.m3u8
+Dorcel HD orig,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/9064/index.m3u8
+Hustler HD orig,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/9065/index.m3u8
+Redlight HD orig,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/9066/index.m3u8
+Русская Ночь orig,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/9344/index.m3u8
+EXXXOTICA HD orig,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/9346/index.m3u8
+Shot TV orig,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/9347/index.m3u8
+EXTASY HD,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/11051/index.m3u8
+KinoXXX,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/11052/index.m3u8
+ОХ-АХ HD,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/11068/index.m3u8
+VF Cartoon 18+,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/11117/index.m3u8
+Alba 1,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12106/index.m3u8
+Exotic 4k,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12107/index.m3u8
+Euro Girls On Girls,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12108/index.m3u8
+Erotica X,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12109/index.m3u8
+Erotic Spice,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12110/index.m3u8
+DP Fanatics,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12111/index.m3u8
+PURE BABES,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12112/index.m3u8
+BRAZZERS TV,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12113/index.m3u8
+XY Plus 1,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12115/index.m3u8
+XY Plus 2,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12116/index.m3u8
+XY Plus 6,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12117/index.m3u8
+XY Plus 12,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12118/index.m3u8
+XY Plus 24,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12119/index.m3u8
+PASSION XXX,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12120/index.m3u8
+Super one HD,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12121/index.m3u8
+Dirty Wives Club,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12122/index.m3u8
+French Lover,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12124/index.m3u8
+Meiden Van Holland,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12125/index.m3u8
+Dirty Masseur,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12128/index.m3u8
+Dirty Flix,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12130/index.m3u8
+DORCEL TV FHD,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12131/index.m3u8
+DORCEL XXX TV,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12132/index.m3u8
+Venus HD,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12133/index.m3u8
+PLAYBOY TV,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12135/index.m3u8
+PASSIE TV,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12136/index.m3u8
+VERAPORN 4K,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12137/index.m3u8
+Deep Throat Sirens,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12138/index.m3u8
+Deep Lush,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12139/index.m3u8
+Dark X,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12140/index.m3u8
+VERAPORN GROUP SEX,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12141/index.m3u8
+VERAPORN GROUP SEX 2,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12142/index.m3u8
+Dane Jones,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12143/index.m3u8
+Dancing Bear,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12144/index.m3u8
+VERAPORN BIG TITS,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12145/index.m3u8
+PINK EROTICA 1,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12146/index.m3u8
+PINK EROTICA 2,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12147/index.m3u8
+PINK EROTICA 3,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12148/index.m3u8
+PINK EROTICA 4,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12149/index.m3u8
+PINK EROTICA 5,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12150/index.m3u8
+PINK EROTICA 6,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12151/index.m3u8
+PINK EROTICA 7,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12152/index.m3u8
+PINK EROTICA 8,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12153/index.m3u8
+Dad Crush,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12154/index.m3u8
+Family Swap,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12155/index.m3u8
+Family Strokes,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12156/index.m3u8
+Cum4k UHD,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12157/index.m3u8
+Cum Perfection,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12158/index.m3u8
+MetArt FHD,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12160/index.m3u8
+Bratty Sis,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12161/index.m3u8
+Brand New Amateurs,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12162/index.m3u8
+Beate Uhse,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12163/index.m3u8
+BBC Pie,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12164/index.m3u8
+Barely Legal TV,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12165/index.m3u8
+Bang POV,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12166/index.m3u8
+Bang Bus,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12167/index.m3u8
+Banana Fever,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12168/index.m3u8
+Asshole Fever,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12169/index.m3u8
+BAG U,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12170/index.m3u8
+XXXINTERRACIAL TV,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12171/index.m3u8
+LATINA TV,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12172/index.m3u8
+MILF TV,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12173/index.m3u8
+PORNSTAR TV,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12174/index.m3u8
+POV TV,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12175/index.m3u8
+ROUGH TV,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12176/index.m3u8
+RUSSIAN TV,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12177/index.m3u8
+Ass Parade,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12178/index.m3u8
+THREESOME TV,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12180/index.m3u8
+Anal Time,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12181/index.m3u8
+Anal Teen Angels,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12183/index.m3u8
+Anal Only,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12184/index.m3u8
+HOTWIFE PREMIUM,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12187/index.m3u8
+TUSHY TV,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12188/index.m3u8
+Anal Mom,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12189/index.m3u8
+Anal 4K,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12190/index.m3u8
+Amateur Boxxx,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12191/index.m3u8
+All Anal,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12192/index.m3u8
+Alex Legend,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12193/index.m3u8
+Alba XXX HD 2,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12194/index.m3u8
+Alba XXX 1 HD,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12204/index.m3u8
+XXX Love\'s Berry HD,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/14140/index.m3u8
+Yosso TV Sexy,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/14176/index.m3u8
+Liberty Эротика FHD,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/16069/index.m3u8
+
+
+
+
+
+
+TRANS ANGELS,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159951
+PORNBOX TRANS: TRANS EROTICA,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159952
+ A GIRL KNOWS,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159953
+ ADULT TIME,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159954
+ ALL BLACK X,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159955
+ ALL GROUP SEX,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159956
+ AMATEUR EURO,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159957
+ ANALIZED,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159958
+ BABES,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159959
+ BANG BROS NETWORK,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159960
+ BIPHORIA,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159961
+ BLACKED,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159962
+ BLOW ME POV,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159963
+ BOX OF PORN,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159964
+ BRATTY SIS,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159965
+ BRAZZERS,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159966
+ BUMS BUS,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159967
+ CASTING COUCH,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159968
+ CUM 4K,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159969
+ DAGFS,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159970
+ DDF BUSTY,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159971
+ DIABOLIC,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159972
+ DIGITAL PLAYGROUND,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159973
+ DOGFART NETWORK,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159974
+ DORCEL CLUB,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159975
+ DREAMROOM,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159976
+ EROTIKVONBENAN,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159977
+ FAKE HOSTEL,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159979
+ FAKE TAXI,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159980
+ FAMILY STROKES,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159981
+ FAMILY SWAP XXX,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159982
+ FAPADOO,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159983
+ FILTHY POV,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159984
+ FIRST ANAL QUEST,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159985
+ FIT 18,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159986
+ GOTMYLF,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159987
+ HENTAINED,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159988
+ HER LIMIT,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159989
+ HOLED,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159990
+ HOT WIFE XXX,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159991
+ HUSSIE PASS,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159992
+ INTERRACIAL PASS,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159993
+ JAYS POV,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159994
+ JESH BY JESH,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159995
+ JOI BABES,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159996
+ JULES JORDAN,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159997
+ KINKY FAMILY,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159998
+ KINKY INLAWS,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159999
+ LETHAL HARDCORE,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/160001
+ LETHAL TEENS,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/160002
+ LETS DOE IT,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/160003
+ LIFE SELECTOR,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/160004
+ LOVE HER FEET,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/160005
+ LOVE HOME PORN,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/160006
+ LUBED,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/160007
+ LUXURE,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/160008
+ MAMACITAZ,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/160009
+ MASSAGE ROOMS,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/160010
+ MODEL MEDIA ASIA,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/160011
+ MOFOS,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/160012
+ MOM TEACH SEX,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/160013
+ MOM XXX,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/160014
+ MOMMY BLOWS BEST,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/160015
+ MUST NOT FAP,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/160016
+ MY DIRTY HOBBY,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/160017
+ MY FAMILY PIES,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/160018
+ MY LIFE IN MIAMI,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/160019
+ MY PERVY FAMILY,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/160020
+ MY TINY WISH,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/160021
+ MYLF,http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/160022
+
+
+Три Ангела,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/6259/manifest.m3u8
+
+
+angel,http://d029dcec.kazmazpaz.ru/iptv/5FRTASC825NL7B/6259/manifest.m3u8
