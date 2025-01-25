@@ -17,10 +17,6 @@
             "name": "运输车"
         }, 
         {
-            "url": "http://ok321.top/tv", 
-            "name": "OK屌炸天(影视) "
-        }, 
-        {
             "url": "https://d.kstore.dev/download/7213/吃猫的鱼",
             "name": "吃猫的鱼"
         },
