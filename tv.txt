@@ -59,6 +59,39 @@ CCTV-4K 超高清,http://hk.666230.xyz/%E5%85%AC%E4%BC%97%E5%8F%B7%E7%9D%A1%E7%9
 极速经典电影1,http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337984fd3341cc9ec569502e4f&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0ac75fafd8679bb53af10de8c33ae99d9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
 极速经典电影2,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=2ccc7b4ba29208aaba62dae54cbbd68c&token=cpn-androidmpro-0-20415-b6774b3b3249db17fff84d73c7585c95e780dbccdb08e4bc&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
 极速经典电影3,http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=7d054e041804e80af8aa7e975e2d8573&token=cpn-androidmpro-0-85894-a3575d938a4aa309c687f5fb85a1009fc65cfbeeb2672310&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=pla
+小鬼子,#genre#
+NHK G,http://vthanh.utako.moe/NHK_G/index.m3u8
+NHK E,http://vthanh.utako.moe/NHK_E/index.m3u8
+NTV,http://vthanh.utako.moe/Nippon_TV/index.m3u8
+TBS,http://vthanh.utako.moe/TBS/index.m3u8
+Fuji TV,http://vthanh.utako.moe/Fuji_TV/index.m3u8
+TV Asahi,http://vthanh.utako.moe/TV_Asahi/index.m3u8
+TV Tokyo,http://vthanh.utako.moe/TV_Tokyo/index.m3u8
+TOKYO MX1,http://vthanh.utako.moe/Tokyo_MX1/index.m3u8
+NHK BS,http://vthanh.utako.moe/NHK_BS/index.m3u8
+Animax,http://vthanh.utako.moe/Animax/index.m3u8
+BS11,http://vthanh.utako.moe/BS11/index.m3u8
+NHK BS4K-test,http://luong.utako.moe/bsp4k_testsignal/index.m3u8
+BS NTV-test,http://luong.utako.moe/bsntva11/index.m3u8
+WOWOW Prime-test,https://luong.utako.moe/wprime/index.m3u8
+WOWOW Cinema-test,https://luong.utako.moe/wcinema/index.m3u8
+WOWOW Live-test,https://luong.utako.moe/wlive/index.m3u8
+JSport 1-test,http://luong.utako.moe/js1/index.m3u8
+JSport 2-test,http://luong.utako.moe/js2/index.m3u8
+JSport 3-test,http://luong.utako.moe/js3/index.m3u8
+JSport 4-test,http://luong.utako.moe/js4/index.m3u8
+AT-X,http://vthanh.utako.moe/AT-X/index.m3u8
+QVC,https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+Space Shower TV-test,http://luong.utako.moe/spaceshower/index.m3u8
+Pigoo-test (NSFW),http://luong.utako.moe/pigoo/index.m3u8
+TBS Channel 1-test,https://luong.utako.moe/tbsch1/index.m3u8
+TBS Channel 2-test,https://luong.utako.moe/tbsch2/index.m3u8
+NHK G (Low Latency test),http://luong.utako.moe/nhkg_fucknihontv.apymx/index.m3u8
+AT-X-test,http://luong.utako.moe/at-x/index.m3u8
+QVC,http://one.dream4ktv.biz:8080/play/live.php?mac=00:1A:79:DB:7A:A3&stream=306901&extension=ts&play_token=0
+NHK General TV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&isp=7&bind=0&uin=201829&playseek=0&timestamp=1732772156&sign=238bf35e4528ba0d32e9d139ad3c9070904ff88d5066539c084d97ae7c103914
+NHK Educational TV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02&isp=7&bind=0&uin=201829&playseek=0&timestamp=1732773002&sign=6fd6d49cdb2f7424d6bd3d17b2481d1593b66aaab57d8cf00edfbd491f8260ad
+Nippon TV,http://suprino.xyz:80/PMF3J9X/BV7HG8H/1003476
 
 💓测试2,#genre#
 AEEast (HD),https://v15.thetvapp.to/hls/AEEast/tracks-v1a1/mono.m3u8?token=5EEKvZVFqakG7YLY5LtWlA&expires=1740295445&user_id=ZFdLVU5DZ3NpdVhHWEw3czYwMGNmaDRmYzBYWUxUUXl3Q0lJQUFPNQ==
