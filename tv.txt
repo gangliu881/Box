@@ -8,9 +8,7 @@
 浙江经济,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8 
-1989香港小姐竞选,http://jsmov2.a.yximgs.com/bs3/video-hls/5259922993058236574_hlsb.m3u8 
-未来频道,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
-浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+ 浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江教科,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
@@ -44,6 +42,9 @@ CCTV风云音乐,http://nas.hssvm.com:8888/udp/225.1.2.176:5002
 CCTV电视指南,http://nas.hssvm.com:8888/udp/225.1.2.167:5002
 CCTV央视台球,http://nas.hssvm.com:8888/udp/225.1.2.170:5002
 CCTV早期教育,http://nas.hssvm.com:8888/udp/225.1.2.207:5002
+CCTV早期教育1,http://nas.hssvm.com:8888/udp/225.1.2.26:5002
+CCTV早期教育2,http://nas.hssvm.com:8888/udp/225.1.2.27:5002
+CCTV早期教育,http://nas.hssvm.com:8888/udp/225.1.2.108:5002
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 中天新聞台,http://222.128.55.152:9080/live/fc.m3u8
 台视新聞台,http://222.128.55.152:9080/live/ts.m3u8
