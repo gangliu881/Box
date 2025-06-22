@@ -20,7 +20,7 @@ CCTV-16,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV16
 CCTV-17,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV17
 
 
-📺卫视频道,#genre#
+
 安徽卫视,http://qwt.zhibotv.top:2016/全网通.php?id=安徽卫视
 北京卫视,http://qwt.zhibotv.top:2016/全网通.php?id=北京卫视
 重庆卫视,http://qwt.zhibotv.top:2016/全网通.php?id=重庆卫视
